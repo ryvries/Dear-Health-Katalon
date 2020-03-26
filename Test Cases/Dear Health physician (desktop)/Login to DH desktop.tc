@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Happy logtin flow</description>
+   <name>Login to DH desktop</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dafa0c05-3381-4d51-b4db-bbdc7fc88e86</testCaseGuid>
+</TestCaseEntity>
