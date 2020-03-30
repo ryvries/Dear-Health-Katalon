@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="First suite" time="17.015" tests="1" failures="0" errors="0">
+   <testsuite name="First suite" tests="1" failures="0" errors="0" time="17.015" timestamp="2020-03-26 14:24:26" hostname="robdevries - localhost" id="Test Suites/First suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/robdevries/git/Dear-Health-Katalon/Reports/20200326_142423/First suite/20200326_142423"/>
+         <property name="logFiles" value="/Users/robdevries/git/Dear-Health-Katalon/Reports/20200326_142423/First suite/20200326_142423/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="robdevries - localhost"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="7.2.6.1"/>
+         <property name="browser" value="Firefox 74.0"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="sessionId" value="7c3a2bf2-1b5a-a147-a736-76d637b4a828"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0, executionList=}"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/Dear Health physician (desktop)/Login to DH desktop" time="16.836" classname="Test Cases/Dear Health physician (desktop)/Login to DH desktop" status="PASSED">
+         <system-out><![CDATA[2020-03-26 14:24:27 - [TEST_CASE][PASSED] - Test Cases/Dear Health physician (desktop)/Login to DH desktop: Test Cases/Dear Health physician (desktop)/Login to DH desktop
+
+2020-03-26 14:24:27 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2020-03-26 14:24:27 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2020-03-26 14:24:27 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2020-03-26 14:24:30 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-03-26 14:24:30 - [TEST_STEP][PASSED] - navigateToUrl("https://devportal.dearhealth.com/login"): Navigate to 'https://devportal.dearhealth.com/login' successfully
+
+2020-03-26 14:24:31 - [MESSAGE][PASSED] - Navigate to 'https://devportal.dearhealth.com/login' successfully
+
+2020-03-26 14:24:31 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login DH (desktop)/Page_DEARhealth/input_Sign In_username"), "elenvolley+m@gmail.com"): Text 'elenvolley+m@gmail.com' is set on object 'Object Repository/Login DH (desktop)/Page_DEARhealth/input_Sign In_username'
+
+2020-03-26 14:24:31 - [MESSAGE][PASSED] - Text 'elenvolley+m@gmail.com' is set on object 'Object Repository/Login DH (desktop)/Page_DEARhealth/input_Sign In_username'
+
+2020-03-26 14:24:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login DH (desktop)/Page_DEARhealth/button_Sign In")): Object: 'Object Repository/Login DH (desktop)/Page_DEARhealth/button_Sign In' is clicked on
+
+2020-03-26 14:24:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Login DH (desktop)/Page_DEARhealth/button_Sign In' is clicked on
+
+2020-03-26 14:24:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login DH (desktop)/Page_DEARhealth/input_Sign in with OKTA_j_idt261j_idt29")): Object: 'Object Repository/Login DH (desktop)/Page_DEARhealth/input_Sign in with OKTA_j_idt261j_idt29' is clicked on
+
+2020-03-26 14:24:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Login DH (desktop)/Page_DEARhealth/input_Sign in with OKTA_j_idt261j_idt29' is clicked on
+
+2020-03-26 14:24:34 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Login DH (desktop)/Page_DEARhealth/input_Skip MFA_password"), "DwTTIjmC6TINHlIjJvfyFw=="): Text ****** has been set on object 'Object Repository/Login DH (desktop)/Page_DEARhealth/input_Skip MFA_password'
+
+2020-03-26 14:24:34 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Login DH (desktop)/Page_DEARhealth/input_Skip MFA_password'
+
+2020-03-26 14:24:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login DH (desktop)/Page_DEARhealth/input_Skip MFA_skipMFA")): Object: 'Object Repository/Login DH (desktop)/Page_DEARhealth/input_Skip MFA_skipMFA' is clicked on
+
+2020-03-26 14:24:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Login DH (desktop)/Page_DEARhealth/input_Skip MFA_skipMFA' is clicked on
+
+2020-03-26 14:24:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login DH (desktop)/Page_DEARhealth/button_Sign In")): Object: 'Object Repository/Login DH (desktop)/Page_DEARhealth/button_Sign In' is clicked on
+
+2020-03-26 14:24:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Login DH (desktop)/Page_DEARhealth/button_Sign In' is clicked on
+
+2020-03-26 14:24:38 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Login DH (desktop)/Page_Provider site/li_Home"), 0): Object 'Object Repository/Login DH (desktop)/Page_Provider site/li_Home' is present
+
+2020-03-26 14:24:38 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2020-03-26 14:24:39 - [MESSAGE][PASSED] - Object 'Object Repository/Login DH (desktop)/Page_Provider site/li_Home' is present
+
+2020-03-26 14:24:39 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Object Repository/Login DH (desktop)/Page_Provider site/span_Eliena Test"), 10): Object 'Object Repository/Login DH (desktop)/Page_Provider site/span_Eliena Test' is present
+
+2020-03-26 14:24:40 - [MESSAGE][PASSED] - Object 'Object Repository/Login DH (desktop)/Page_Provider site/span_Eliena Test' is present
+
+2020-03-26 14:24:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login DH (desktop)/Page_Provider site/span_Eliena Test")): Object: 'Object Repository/Login DH (desktop)/Page_Provider site/span_Eliena Test' is clicked on
+
+2020-03-26 14:24:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Login DH (desktop)/Page_Provider site/span_Eliena Test' is clicked on
+
+2020-03-26 14:24:40 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Object Repository/Login DH (desktop)/Page_Provider site/button_Sign Out"), 10): Object 'Object Repository/Login DH (desktop)/Page_Provider site/button_Sign Out' is present
+
+2020-03-26 14:24:40 - [MESSAGE][PASSED] - Object 'Object Repository/Login DH (desktop)/Page_Provider site/button_Sign Out' is present
+
+2020-03-26 14:24:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login DH (desktop)/Page_Provider site/button_Sign Out")): Object: 'Object Repository/Login DH (desktop)/Page_Provider site/button_Sign Out' is clicked on
+
+2020-03-26 14:24:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Login DH (desktop)/Page_Provider site/button_Sign Out' is clicked on
+
+2020-03-26 14:24:42 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-03-26 14:24:43 - [MESSAGE][PASSED] - Browser is closed
+
+2020-03-26 14:24:43 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2020-03-26 14:24:26 - [TEST_SUITE][PASSED] - First suite: Test Cases/Dear Health physician (desktop)/Login to DH desktop]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

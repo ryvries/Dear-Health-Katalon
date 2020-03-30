@@ -1,0 +1,1852 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-03-26T14:24:52</date>
+  <millis>1585229092530</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/First suite</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="name">First suite</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/First suite</property>
+</record>
+<record>
+  <date>2020-03-26T14:24:52</date>
+  <millis>1585229092540</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostName = robdevries - localhost</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostName">robdevries - localhost</property>
+</record>
+<record>
+  <date>2020-03-26T14:24:52</date>
+  <millis>1585229092541</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>os = Mac OS X 64bit</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="os">Mac OS X 64bit</property>
+</record>
+<record>
+  <date>2020-03-26T14:24:52</date>
+  <millis>1585229092541</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostAddress = 127.0.0.1</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostAddress">127.0.0.1</property>
+</record>
+<record>
+  <date>2020-03-26T14:24:52</date>
+  <millis>1585229092542</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>katalonVersion = 7.2.6.1</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="katalonVersion">7.2.6.1</property>
+</record>
+<record>
+  <date>2020-03-26T14:24:52</date>
+  <millis>1585229092560</millis>
+  <sequence>5</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Microsoft Teams Incoming Webhook is empty.</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:24:52</date>
+  <millis>1585229092681</millis>
+  <sequence>6</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Dear Health physician (desktop)/Login to DH desktop</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Dear Health physician (desktop)/Login to DH desktop</property>
+  <property name="description">Happy logtin flow</property>
+  <property name="id">Test Cases/Dear Health physician (desktop)/Login to DH desktop</property>
+  <property name="source">\\Users\\robdevries\\git\\Dear-Health-Katalon\\Test Cases\\Dear Health physician (desktop)\\Login to DH desktop.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2020-03-26T14:24:52</date>
+  <millis>1585229092865</millis>
+  <sequence>8</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser(\&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">19</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2020-03-26T14:24:52</date>
+  <millis>1585229092981</millis>
+  <sequence>10</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting &amp;apos;Chrome (headless)&amp;apos; driver</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:24:52</date>
+  <millis>1585229092999</millis>
+  <sequence>12</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Action delay is set to 0 seconds</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:24:53</date>
+  <millis>1585229093805</millis>
+  <sequence>14</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>sessionId = af253d1678eded0ed06ecdf4db9a35be</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="sessionId">af253d1678eded0ed06ecdf4db9a35be</property>
+</record>
+<record>
+  <date>2020-03-26T14:24:53</date>
+  <millis>1585229093815</millis>
+  <sequence>15</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>browser = Chrome 80.0.3987.132</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="browser">Chrome 80.0.3987.132</property>
+</record>
+<record>
+  <date>2020-03-26T14:24:53</date>
+  <millis>1585229093816</millis>
+  <sequence>16</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>platform = Mac OS X</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="platform">Mac OS X</property>
+</record>
+<record>
+  <date>2020-03-26T14:24:53</date>
+  <millis>1585229093816</millis>
+  <sequence>17</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>seleniumVersion = 3.141.59</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="seleniumVersion">3.141.59</property>
+</record>
+<record>
+  <date>2020-03-26T14:24:53</date>
+  <millis>1585229093817</millis>
+  <sequence>18</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>proxyInformation = ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0, executionList=}</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="proxyInformation">ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0, executionList=}</property>
+</record>
+<record>
+  <date>2020-03-26T14:24:53</date>
+  <millis>1585229093823</millis>
+  <sequence>19</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is opened with url: &amp;apos;&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:24:53</date>
+  <millis>1585229093823</millis>
+  <sequence>20</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : openBrowser(\&amp;quot;\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:24:53</date>
+  <millis>1585229093823</millis>
+  <sequence>21</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : navigateToUrl(\&amp;quot;https://devportal.dearhealth.com/login\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">21</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2020-03-26T14:24:55</date>
+  <millis>1585229095123</millis>
+  <sequence>24</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Navigate to &amp;apos;https://devportal.dearhealth.com/login&amp;apos; successfully</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:24:55</date>
+  <millis>1585229095124</millis>
+  <sequence>25</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : navigateToUrl(\&amp;quot;https://devportal.dearhealth.com/login\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:24:55</date>
+  <millis>1585229095124</millis>
+  <sequence>26</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/Login DH (desktop)/Page_DEARhealth/input_Sign In_username\&amp;quot;), \&amp;quot;elenvolley+m@gmail.com\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">23</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2020-03-26T14:24:55</date>
+  <millis>1585229095322</millis>
+  <sequence>37</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;elenvolley+m@gmail.com&amp;apos; is set on object &amp;apos;Object Repository/Login DH (desktop)/Page_DEARhealth/input_Sign In_username&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:24:55</date>
+  <millis>1585229095323</millis>
+  <sequence>38</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/Login DH (desktop)/Page_DEARhealth/input_Sign In_username\&amp;quot;), \&amp;quot;elenvolley+m@gmail.com\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:24:55</date>
+  <millis>1585229095323</millis>
+  <sequence>39</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/Login DH (desktop)/Page_DEARhealth/button_Sign In\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">25</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2020-03-26T14:24:55</date>
+  <millis>1585229095415</millis>
+  <sequence>48</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Login DH (desktop)/Page_DEARhealth/button_Sign In&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:24:55</date>
+  <millis>1585229095416</millis>
+  <sequence>49</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/Login DH (desktop)/Page_DEARhealth/button_Sign In\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:24:55</date>
+  <millis>1585229095416</millis>
+  <sequence>50</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/Login DH (desktop)/Page_DEARhealth/input_Sign in with OKTA_j_idt261j_idt29\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">27</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2020-03-26T14:24:56</date>
+  <millis>1585229096679</millis>
+  <sequence>60</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Login DH (desktop)/Page_DEARhealth/input_Sign in with OKTA_j_idt261j_idt29&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:24:56</date>
+  <millis>1585229096680</millis>
+  <sequence>61</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/Login DH (desktop)/Page_DEARhealth/input_Sign in with OKTA_j_idt261j_idt29\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:24:56</date>
+  <millis>1585229096680</millis>
+  <sequence>62</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setEncryptedText(findTestObject(\&amp;quot;Object Repository/Login DH (desktop)/Page_DEARhealth/input_Skip MFA_password\&amp;quot;), \&amp;quot;DwTTIjmC6TINHlIjJvfyFw==\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">29</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2020-03-26T14:24:56</date>
+  <millis>1585229096809</millis>
+  <sequence>73</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text ****** has been set on object &amp;apos;Object Repository/Login DH (desktop)/Page_DEARhealth/input_Skip MFA_password&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:24:56</date>
+  <millis>1585229096810</millis>
+  <sequence>74</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setEncryptedText(findTestObject(\&amp;quot;Object Repository/Login DH (desktop)/Page_DEARhealth/input_Skip MFA_password\&amp;quot;), \&amp;quot;DwTTIjmC6TINHlIjJvfyFw==\&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:24:56</date>
+  <millis>1585229096810</millis>
+  <sequence>75</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/Login DH (desktop)/Page_DEARhealth/input_Skip MFA_skipMFA\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">31</property>
+  <property name="stepIndex">7</property>
+</record>
+<record>
+  <date>2020-03-26T14:24:56</date>
+  <millis>1585229096880</millis>
+  <sequence>84</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Login DH (desktop)/Page_DEARhealth/input_Skip MFA_skipMFA&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:24:56</date>
+  <millis>1585229096880</millis>
+  <sequence>85</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/Login DH (desktop)/Page_DEARhealth/input_Skip MFA_skipMFA\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:24:56</date>
+  <millis>1585229096880</millis>
+  <sequence>86</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/Login DH (desktop)/Page_DEARhealth/button_Sign In\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">33</property>
+  <property name="stepIndex">8</property>
+</record>
+<record>
+  <date>2020-03-26T14:24:56</date>
+  <millis>1585229096973</millis>
+  <sequence>95</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Login DH (desktop)/Page_DEARhealth/button_Sign In&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:24:56</date>
+  <millis>1585229096973</millis>
+  <sequence>96</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/Login DH (desktop)/Page_DEARhealth/button_Sign In\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:24:56</date>
+  <millis>1585229096974</millis>
+  <sequence>97</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementPresent(findTestObject(\&amp;quot;Object Repository/Login DH (desktop)/Page_Provider site/li_Home\&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">35</property>
+  <property name="stepIndex">9</property>
+</record>
+<record>
+  <date>2020-03-26T14:24:56</date>
+  <millis>1585229096999</millis>
+  <sequence>102</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:24:57</date>
+  <millis>1585229097015</millis>
+  <sequence>106</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/Login DH (desktop)/Page_Provider site/li_Home&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:24:57</date>
+  <millis>1585229097015</millis>
+  <sequence>107</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementPresent(findTestObject(\&amp;quot;Object Repository/Login DH (desktop)/Page_Provider site/li_Home\&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:24:57</date>
+  <millis>1585229097016</millis>
+  <sequence>108</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : waitForElementPresent(findTestObject(\&amp;quot;Object Repository/Login DH (desktop)/Page_Provider site/span_Eliena Test\&amp;quot;), 10)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">37</property>
+  <property name="stepIndex">10</property>
+</record>
+<record>
+  <date>2020-03-26T14:24:59</date>
+  <millis>1585229099684</millis>
+  <sequence>117</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/Login DH (desktop)/Page_Provider site/span_Eliena Test&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:24:59</date>
+  <millis>1585229099685</millis>
+  <sequence>118</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : waitForElementPresent(findTestObject(\&amp;quot;Object Repository/Login DH (desktop)/Page_Provider site/span_Eliena Test\&amp;quot;), 10)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:24:59</date>
+  <millis>1585229099685</millis>
+  <sequence>119</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/Login DH (desktop)/Page_Provider site/span_Eliena Test\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">39</property>
+  <property name="stepIndex">11</property>
+</record>
+<record>
+  <date>2020-03-26T14:24:59</date>
+  <millis>1585229099746</millis>
+  <sequence>128</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Login DH (desktop)/Page_Provider site/span_Eliena Test&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:24:59</date>
+  <millis>1585229099747</millis>
+  <sequence>129</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/Login DH (desktop)/Page_Provider site/span_Eliena Test\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:24:59</date>
+  <millis>1585229099747</millis>
+  <sequence>130</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : waitForElementPresent(findTestObject(\&amp;quot;Object Repository/Login DH (desktop)/Page_Provider site/button_Sign Out\&amp;quot;), 10)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">41</property>
+  <property name="stepIndex">12</property>
+</record>
+<record>
+  <date>2020-03-26T14:24:59</date>
+  <millis>1585229099784</millis>
+  <sequence>138</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object &amp;apos;Object Repository/Login DH (desktop)/Page_Provider site/button_Sign Out&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:24:59</date>
+  <millis>1585229099785</millis>
+  <sequence>139</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : waitForElementPresent(findTestObject(\&amp;quot;Object Repository/Login DH (desktop)/Page_Provider site/button_Sign Out\&amp;quot;), 10)</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:24:59</date>
+  <millis>1585229099785</millis>
+  <sequence>140</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/Login DH (desktop)/Page_Provider site/button_Sign Out\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">43</property>
+  <property name="stepIndex">13</property>
+</record>
+<record>
+  <date>2020-03-26T14:25:00</date>
+  <millis>1585229100491</millis>
+  <sequence>149</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/Login DH (desktop)/Page_Provider site/button_Sign Out&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:25:00</date>
+  <millis>1585229100491</millis>
+  <sequence>150</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/Login DH (desktop)/Page_Provider site/button_Sign Out\&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:25:00</date>
+  <millis>1585229100491</millis>
+  <sequence>151</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : closeBrowser()</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">45</property>
+  <property name="stepIndex">14</property>
+</record>
+<record>
+  <date>2020-03-26T14:25:00</date>
+  <millis>1585229100573</millis>
+  <sequence>153</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is closed</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:25:00</date>
+  <millis>1585229100573</millis>
+  <sequence>154</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : closeBrowser()</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:25:00</date>
+  <millis>1585229100573</millis>
+  <sequence>155</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Dear Health physician (desktop)/Login to DH desktop</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:25:00</date>
+  <millis>1585229100573</millis>
+  <sequence>156</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start listener action : sampleAfterTestCase</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:25:00</date>
+  <millis>1585229100577</millis>
+  <sequence>159</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End listener action : sampleAfterTestCase</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:25:00</date>
+  <millis>1585229100577</millis>
+  <sequence>160</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Dear Health physician (desktop)/Login to DH desktop</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:25:00</date>
+  <millis>1585229100577</millis>
+  <sequence>161</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>=================== Smart XPath Report =======================</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:25:00</date>
+  <millis>1585229100577</millis>
+  <sequence>162</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Refer to the link below to preview and approve auto healing on broken test objects.</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:25:00</date>
+  <millis>1585229100578</millis>
+  <sequence>163</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>https://docs.katalon.com/katalon-studio/docs/auto-healing-smart-xpath.html</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:25:00</date>
+  <millis>1585229100578</millis>
+  <sequence>164</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>===============================================================</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:25:00</date>
+  <millis>1585229100579</millis>
+  <sequence>165</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start listener action : sampleAfterTestSuite</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:25:00</date>
+  <millis>1585229100580</millis>
+  <sequence>168</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End listener action : sampleAfterTestSuite</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T14:25:00</date>
+  <millis>1585229100600</millis>
+  <sequence>169</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endSuite</method>
+  <thread>1</thread>
+  <message>End Test Suite : Test Suites/First suite</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-03-26T16:11:02</date>
+  <millis>1585235462017</millis>
+  <sequence>77</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>184</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T16:11:37</date>
+  <millis>1585235497637</millis>
+  <sequence>78</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>189</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T16:12:29</date>
+  <millis>1585235549645</millis>
+  <sequence>79</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>194</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T16:13:17</date>
+  <millis>1585235597596</millis>
+  <sequence>80</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>200</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T16:14:30</date>
+  <millis>1585235670690</millis>
+  <sequence>81</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>207</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T16:14:50</date>
+  <millis>1585235690734</millis>
+  <sequence>85</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>218</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-26T16:18:38</date>
+  <millis>1585235918190</millis>
+  <sequence>112</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>273</thread>
+  <message>deviceId = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">null</property>
+</record>
+<record>
+  <date>2020-03-26T16:18:38</date>
+  <millis>1585235918190</millis>
+  <sequence>113</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>273</thread>
+  <message>deviceName = Pixel 3 XL</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Pixel 3 XL</property>
+</record>
+<record>
+  <date>2020-03-26T16:18:38</date>
+  <millis>1585235918190</millis>
+  <sequence>114</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>273</thread>
+  <message>deviceModel = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">null</property>
+</record>
+<record>
+  <date>2020-03-26T16:18:38</date>
+  <millis>1585235918191</millis>
+  <sequence>115</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>273</thread>
+  <message>deviceManufacturer = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">null</property>
+</record>
+<record>
+  <date>2020-03-26T16:18:38</date>
+  <millis>1585235918191</millis>
+  <sequence>116</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>273</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-26T16:18:38</date>
+  <millis>1585235918191</millis>
+  <sequence>117</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>273</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-26T16:19:00</date>
+  <millis>1585235940309</millis>
+  <sequence>122</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>283</thread>
+  <message>deviceId = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">null</property>
+</record>
+<record>
+  <date>2020-03-26T16:19:00</date>
+  <millis>1585235940309</millis>
+  <sequence>123</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>283</thread>
+  <message>deviceName = Pixel 3 XL</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Pixel 3 XL</property>
+</record>
+<record>
+  <date>2020-03-26T16:19:00</date>
+  <millis>1585235940309</millis>
+  <sequence>124</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>283</thread>
+  <message>deviceModel = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">null</property>
+</record>
+<record>
+  <date>2020-03-26T16:19:00</date>
+  <millis>1585235940309</millis>
+  <sequence>125</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>283</thread>
+  <message>deviceManufacturer = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">null</property>
+</record>
+<record>
+  <date>2020-03-26T16:19:00</date>
+  <millis>1585235940310</millis>
+  <sequence>126</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>283</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-26T16:19:00</date>
+  <millis>1585235940310</millis>
+  <sequence>127</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>283</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-26T16:41:52</date>
+  <millis>1585237312678</millis>
+  <sequence>132</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>293</thread>
+  <message>deviceId = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">null</property>
+</record>
+<record>
+  <date>2020-03-26T16:41:52</date>
+  <millis>1585237312678</millis>
+  <sequence>133</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>293</thread>
+  <message>deviceName = Pixel 3 XL</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Pixel 3 XL</property>
+</record>
+<record>
+  <date>2020-03-26T16:41:52</date>
+  <millis>1585237312678</millis>
+  <sequence>134</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>293</thread>
+  <message>deviceModel = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">null</property>
+</record>
+<record>
+  <date>2020-03-26T16:41:52</date>
+  <millis>1585237312678</millis>
+  <sequence>135</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>293</thread>
+  <message>deviceManufacturer = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">null</property>
+</record>
+<record>
+  <date>2020-03-26T16:41:52</date>
+  <millis>1585237312679</millis>
+  <sequence>136</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>293</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-26T16:41:52</date>
+  <millis>1585237312679</millis>
+  <sequence>137</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>293</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-26T16:56:57</date>
+  <millis>1585238217463</millis>
+  <sequence>143</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>307</thread>
+  <message>appiumVersion = 1.13.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.13.0</property>
+</record>
+<record>
+  <date>2020-03-26T16:56:57</date>
+  <millis>1585238217463</millis>
+  <sequence>144</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>307</thread>
+  <message>appiumServerStatus = {\&amp;quot;status\&amp;quot;:0,\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.13.0\&amp;quot;,\&amp;quot;revision\&amp;quot;:\&amp;quot;fd170567d5eeb8a7aaf2a693e33389484001e881\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;status\&quot;:0,\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.13.0\&quot;,\&quot;revision\&quot;:\&quot;fd170567d5eeb8a7aaf2a693e33389484001e881\&quot;}},\&quot;sessionId\&quot;:null}</property>
+</record>
+<record>
+  <date>2020-03-26T16:56:58</date>
+  <millis>1585238218161</millis>
+  <sequence>145</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>307</thread>
+  <message>deviceId = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">null</property>
+</record>
+<record>
+  <date>2020-03-26T16:56:58</date>
+  <millis>1585238218161</millis>
+  <sequence>146</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>307</thread>
+  <message>deviceName = Pixel 3 XL</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Pixel 3 XL</property>
+</record>
+<record>
+  <date>2020-03-26T16:56:58</date>
+  <millis>1585238218162</millis>
+  <sequence>147</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>307</thread>
+  <message>deviceModel = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">null</property>
+</record>
+<record>
+  <date>2020-03-26T16:56:58</date>
+  <millis>1585238218162</millis>
+  <sequence>148</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>307</thread>
+  <message>deviceManufacturer = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">null</property>
+</record>
+<record>
+  <date>2020-03-26T16:56:58</date>
+  <millis>1585238218162</millis>
+  <sequence>149</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>307</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-26T16:56:58</date>
+  <millis>1585238218162</millis>
+  <sequence>150</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>307</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-26T16:59:59</date>
+  <millis>1585238399576</millis>
+  <sequence>152</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>347</thread>
+  <message>deviceId = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">null</property>
+</record>
+<record>
+  <date>2020-03-26T16:59:59</date>
+  <millis>1585238399577</millis>
+  <sequence>153</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>347</thread>
+  <message>deviceName = P20 lite</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">P20 lite</property>
+</record>
+<record>
+  <date>2020-03-26T16:59:59</date>
+  <millis>1585238399577</millis>
+  <sequence>154</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>347</thread>
+  <message>deviceModel = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">null</property>
+</record>
+<record>
+  <date>2020-03-26T16:59:59</date>
+  <millis>1585238399578</millis>
+  <sequence>155</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>347</thread>
+  <message>deviceManufacturer = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">null</property>
+</record>
+<record>
+  <date>2020-03-26T16:59:59</date>
+  <millis>1585238399578</millis>
+  <sequence>156</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>347</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-26T16:59:59</date>
+  <millis>1585238399578</millis>
+  <sequence>157</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>347</thread>
+  <message>deviceOSVersion = 8.0.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">8.0.0</property>
+</record>
+<record>
+  <date>2020-03-26T17:00:23</date>
+  <millis>1585238423840</millis>
+  <sequence>162</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>360</thread>
+  <message>deviceId = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">null</property>
+</record>
+<record>
+  <date>2020-03-26T17:00:23</date>
+  <millis>1585238423840</millis>
+  <sequence>163</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>360</thread>
+  <message>deviceName = Pixel 3 XL</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Pixel 3 XL</property>
+</record>
+<record>
+  <date>2020-03-26T17:00:23</date>
+  <millis>1585238423841</millis>
+  <sequence>164</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>360</thread>
+  <message>deviceModel = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">null</property>
+</record>
+<record>
+  <date>2020-03-26T17:00:23</date>
+  <millis>1585238423841</millis>
+  <sequence>165</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>360</thread>
+  <message>deviceManufacturer = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">null</property>
+</record>
+<record>
+  <date>2020-03-26T17:00:23</date>
+  <millis>1585238423841</millis>
+  <sequence>166</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>360</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-26T17:00:23</date>
+  <millis>1585238423841</millis>
+  <sequence>167</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>360</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-26T17:00:58</date>
+  <millis>1585238458530</millis>
+  <sequence>172</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>368</thread>
+  <message>deviceId = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">null</property>
+</record>
+<record>
+  <date>2020-03-26T17:00:58</date>
+  <millis>1585238458530</millis>
+  <sequence>173</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>368</thread>
+  <message>deviceName = P20 lite</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">P20 lite</property>
+</record>
+<record>
+  <date>2020-03-26T17:00:58</date>
+  <millis>1585238458530</millis>
+  <sequence>174</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>368</thread>
+  <message>deviceModel = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">null</property>
+</record>
+<record>
+  <date>2020-03-26T17:00:58</date>
+  <millis>1585238458530</millis>
+  <sequence>175</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>368</thread>
+  <message>deviceManufacturer = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">null</property>
+</record>
+<record>
+  <date>2020-03-26T17:00:58</date>
+  <millis>1585238458530</millis>
+  <sequence>176</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>368</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-26T17:00:58</date>
+  <millis>1585238458531</millis>
+  <sequence>177</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>368</thread>
+  <message>deviceOSVersion = 8.0.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">8.0.0</property>
+</record>
+<record>
+  <date>2020-03-26T17:04:17</date>
+  <millis>1585238657780</millis>
+  <sequence>183</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>373</thread>
+  <message>appiumVersion = 1.13.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.13.0</property>
+</record>
+<record>
+  <date>2020-03-26T17:04:17</date>
+  <millis>1585238657781</millis>
+  <sequence>184</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>373</thread>
+  <message>appiumServerStatus = {\&amp;quot;status\&amp;quot;:0,\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.13.0\&amp;quot;,\&amp;quot;revision\&amp;quot;:\&amp;quot;fd170567d5eeb8a7aaf2a693e33389484001e881\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;status\&quot;:0,\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.13.0\&quot;,\&quot;revision\&quot;:\&quot;fd170567d5eeb8a7aaf2a693e33389484001e881\&quot;}},\&quot;sessionId\&quot;:null}</property>
+</record>
+<record>
+  <date>2020-03-26T17:04:18</date>
+  <millis>1585238658477</millis>
+  <sequence>185</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>373</thread>
+  <message>deviceId = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">null</property>
+</record>
+<record>
+  <date>2020-03-26T17:04:18</date>
+  <millis>1585238658477</millis>
+  <sequence>186</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>373</thread>
+  <message>deviceName = Pixel 3 XL</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Pixel 3 XL</property>
+</record>
+<record>
+  <date>2020-03-26T17:04:18</date>
+  <millis>1585238658477</millis>
+  <sequence>187</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>373</thread>
+  <message>deviceModel = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">null</property>
+</record>
+<record>
+  <date>2020-03-26T17:04:18</date>
+  <millis>1585238658477</millis>
+  <sequence>188</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>373</thread>
+  <message>deviceManufacturer = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">null</property>
+</record>
+<record>
+  <date>2020-03-26T17:04:18</date>
+  <millis>1585238658477</millis>
+  <sequence>189</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>373</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-26T17:04:18</date>
+  <millis>1585238658477</millis>
+  <sequence>190</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>373</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-26T17:08:36</date>
+  <millis>1585238916870</millis>
+  <sequence>192</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>427</thread>
+  <message>deviceId = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">null</property>
+</record>
+<record>
+  <date>2020-03-26T17:08:36</date>
+  <millis>1585238916870</millis>
+  <sequence>193</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>427</thread>
+  <message>deviceName = Galaxy S10e</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Galaxy S10e</property>
+</record>
+<record>
+  <date>2020-03-26T17:08:36</date>
+  <millis>1585238916870</millis>
+  <sequence>194</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>427</thread>
+  <message>deviceModel = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">null</property>
+</record>
+<record>
+  <date>2020-03-26T17:08:36</date>
+  <millis>1585238916871</millis>
+  <sequence>195</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>427</thread>
+  <message>deviceManufacturer = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">null</property>
+</record>
+<record>
+  <date>2020-03-26T17:08:36</date>
+  <millis>1585238916871</millis>
+  <sequence>196</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>427</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-26T17:08:36</date>
+  <millis>1585238916871</millis>
+  <sequence>197</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>427</thread>
+  <message>deviceOSVersion = 9</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">9</property>
+</record>
+<record>
+  <date>2020-03-26T17:08:52</date>
+  <millis>1585238932640</millis>
+  <sequence>202</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>438</thread>
+  <message>deviceId = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">null</property>
+</record>
+<record>
+  <date>2020-03-26T17:08:52</date>
+  <millis>1585238932640</millis>
+  <sequence>203</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>438</thread>
+  <message>deviceName = P20 lite</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">P20 lite</property>
+</record>
+<record>
+  <date>2020-03-26T17:08:52</date>
+  <millis>1585238932640</millis>
+  <sequence>204</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>438</thread>
+  <message>deviceModel = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">null</property>
+</record>
+<record>
+  <date>2020-03-26T17:08:52</date>
+  <millis>1585238932640</millis>
+  <sequence>205</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>438</thread>
+  <message>deviceManufacturer = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">null</property>
+</record>
+<record>
+  <date>2020-03-26T17:08:52</date>
+  <millis>1585238932640</millis>
+  <sequence>206</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>438</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-26T17:08:52</date>
+  <millis>1585238932640</millis>
+  <sequence>207</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>438</thread>
+  <message>deviceOSVersion = 8.0.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">8.0.0</property>
+</record>
+<record>
+  <date>2020-03-26T17:09:13</date>
+  <millis>1585238953993</millis>
+  <sequence>212</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>444</thread>
+  <message>deviceId = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">null</property>
+</record>
+<record>
+  <date>2020-03-26T17:09:13</date>
+  <millis>1585238953993</millis>
+  <sequence>213</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>444</thread>
+  <message>deviceName = Pixel 3 XL</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Pixel 3 XL</property>
+</record>
+<record>
+  <date>2020-03-26T17:09:13</date>
+  <millis>1585238953993</millis>
+  <sequence>214</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>444</thread>
+  <message>deviceModel = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">null</property>
+</record>
+<record>
+  <date>2020-03-26T17:09:13</date>
+  <millis>1585238953993</millis>
+  <sequence>215</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>444</thread>
+  <message>deviceManufacturer = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">null</property>
+</record>
+<record>
+  <date>2020-03-26T17:09:13</date>
+  <millis>1585238953993</millis>
+  <sequence>216</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>444</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-26T17:09:13</date>
+  <millis>1585238953994</millis>
+  <sequence>217</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>444</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-26T17:09:29</date>
+  <millis>1585238969094</millis>
+  <sequence>222</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>449</thread>
+  <message>deviceId = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">null</property>
+</record>
+<record>
+  <date>2020-03-26T17:09:29</date>
+  <millis>1585238969094</millis>
+  <sequence>223</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>449</thread>
+  <message>deviceName = Galaxy S10e</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Galaxy S10e</property>
+</record>
+<record>
+  <date>2020-03-26T17:09:29</date>
+  <millis>1585238969094</millis>
+  <sequence>224</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>449</thread>
+  <message>deviceModel = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">null</property>
+</record>
+<record>
+  <date>2020-03-26T17:09:29</date>
+  <millis>1585238969094</millis>
+  <sequence>225</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>449</thread>
+  <message>deviceManufacturer = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">null</property>
+</record>
+<record>
+  <date>2020-03-26T17:09:29</date>
+  <millis>1585238969095</millis>
+  <sequence>226</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>449</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-26T17:09:29</date>
+  <millis>1585238969095</millis>
+  <sequence>227</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>449</thread>
+  <message>deviceOSVersion = 9</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">9</property>
+</record>
+<record>
+  <date>2020-03-26T17:10:16</date>
+  <millis>1585239016321</millis>
+  <sequence>232</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>456</thread>
+  <message>deviceId = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">null</property>
+</record>
+<record>
+  <date>2020-03-26T17:10:16</date>
+  <millis>1585239016322</millis>
+  <sequence>233</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>456</thread>
+  <message>deviceName = Pixel 3 XL</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Pixel 3 XL</property>
+</record>
+<record>
+  <date>2020-03-26T17:10:16</date>
+  <millis>1585239016322</millis>
+  <sequence>234</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>456</thread>
+  <message>deviceModel = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">null</property>
+</record>
+<record>
+  <date>2020-03-26T17:10:16</date>
+  <millis>1585239016322</millis>
+  <sequence>235</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>456</thread>
+  <message>deviceManufacturer = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">null</property>
+</record>
+<record>
+  <date>2020-03-26T17:10:16</date>
+  <millis>1585239016322</millis>
+  <sequence>236</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>456</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-26T17:10:16</date>
+  <millis>1585239016322</millis>
+  <sequence>237</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>456</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+</log>

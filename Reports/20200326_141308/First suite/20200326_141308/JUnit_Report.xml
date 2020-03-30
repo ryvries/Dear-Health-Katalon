@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="First suite" time="4.75" tests="1" failures="0" errors="1">
+   <testsuite name="First suite" tests="1" failures="0" errors="1" time="4.75" timestamp="2020-03-26 14:13:12" hostname="robdevries - localhost" id="Test Suites/First suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/robdevries/git/Dear-Health-Katalon/Reports/20200326_141308/First suite/20200326_141308"/>
+         <property name="logFiles" value="/Users/robdevries/git/Dear-Health-Katalon/Reports/20200326_141308/First suite/20200326_141308/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="robdevries - localhost"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="7.2.6.1"/>
+         <property name="browser" value="Chrome 80.0.3987.132"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="sessionId" value="15102e26c8447c54412a77085322bc70"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0, executionList=}"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/Dear Health physician (desktop)/Login to DH desktop" time="4.508" classname="Test Cases/Dear Health physician (desktop)/Login to DH desktop" status="ERROR">
+         <error type="ERROR" message="Test Cases/Dear Health physician (desktop)/Login to DH desktop FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.waitForElementPresent() is applicable for argument types: (java.lang.String, java.lang.Integer) values: [Object Repository/Login DH (desktop)/Page_Provider site/span_Eliena Test, ...]
+Possible solutions: waitForElementPresent(com.kms.katalon.core.testobject.TestObject, int), waitForElementPresent(com.kms.katalon.core.testobject.TestObject, int, com.kms.katalon.core.model.FailureHandling), waitForElementNotPresent(com.kms.katalon.core.testobject.TestObject, int), waitForElementNotPresent(com.kms.katalon.core.testobject.TestObject, int, com.kms.katalon.core.model.FailureHandling)
+	at Login to DH desktop.run(Login to DH desktop:37)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1585228388382.run(TempTestSuite1585228388382.groovy:36)
+"/>
+         <system-out><![CDATA[2020-03-26 14:13:12 - [TEST_CASE][ERROR] - Test Cases/Dear Health physician (desktop)/Login to DH desktop: Test Cases/Dear Health physician (desktop)/Login to DH desktop FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.waitForElementPresent() is applicable for argument types: (java.lang.String, java.lang.Integer) values: [Object Repository/Login DH (desktop)/Page_Provider site/span_Eliena Test, ...]
+Possible solutions: waitForElementPresent(com.kms.katalon.core.testobject.TestObject, int), waitForElementPresent(com.kms.katalon.core.testobject.TestObject, int, com.kms.katalon.core.model.FailureHandling), waitForElementNotPresent(com.kms.katalon.core.testobject.TestObject, int), waitForElementNotPresent(com.kms.katalon.core.testobject.TestObject, int, com.kms.katalon.core.model.FailureHandling)
+	at Login to DH desktop.run(Login to DH desktop:37)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1585228388382.run(TempTestSuite1585228388382.groovy:36)
+
+
+2020-03-26 14:13:12 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2020-03-26 14:13:12 - [MESSAGE][INFO] - Starting 'Chrome (headless)' driver
+
+2020-03-26 14:13:12 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2020-03-26 14:13:13 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-03-26 14:13:13 - [TEST_STEP][PASSED] - navigateToUrl("https://devportal.dearhealth.com/login"): Navigate to 'https://devportal.dearhealth.com/login' successfully
+
+2020-03-26 14:13:14 - [MESSAGE][PASSED] - Navigate to 'https://devportal.dearhealth.com/login' successfully
+
+2020-03-26 14:13:14 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login DH (desktop)/Page_DEARhealth/input_Sign In_username"), "elenvolley+m@gmail.com"): Text 'elenvolley+m@gmail.com' is set on object 'Object Repository/Login DH (desktop)/Page_DEARhealth/input_Sign In_username'
+
+2020-03-26 14:13:14 - [MESSAGE][PASSED] - Text 'elenvolley+m@gmail.com' is set on object 'Object Repository/Login DH (desktop)/Page_DEARhealth/input_Sign In_username'
+
+2020-03-26 14:13:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login DH (desktop)/Page_DEARhealth/button_Sign In")): Object: 'Object Repository/Login DH (desktop)/Page_DEARhealth/button_Sign In' is clicked on
+
+2020-03-26 14:13:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Login DH (desktop)/Page_DEARhealth/button_Sign In' is clicked on
+
+2020-03-26 14:13:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login DH (desktop)/Page_DEARhealth/input_Sign in with OKTA_j_idt261j_idt29")): Object: 'Object Repository/Login DH (desktop)/Page_DEARhealth/input_Sign in with OKTA_j_idt261j_idt29' is clicked on
+
+2020-03-26 14:13:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Login DH (desktop)/Page_DEARhealth/input_Sign in with OKTA_j_idt261j_idt29' is clicked on
+
+2020-03-26 14:13:16 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Login DH (desktop)/Page_DEARhealth/input_Skip MFA_password"), "DwTTIjmC6TINHlIjJvfyFw=="): Text ****** has been set on object 'Object Repository/Login DH (desktop)/Page_DEARhealth/input_Skip MFA_password'
+
+2020-03-26 14:13:16 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Login DH (desktop)/Page_DEARhealth/input_Skip MFA_password'
+
+2020-03-26 14:13:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login DH (desktop)/Page_DEARhealth/input_Skip MFA_skipMFA")): Object: 'Object Repository/Login DH (desktop)/Page_DEARhealth/input_Skip MFA_skipMFA' is clicked on
+
+2020-03-26 14:13:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Login DH (desktop)/Page_DEARhealth/input_Skip MFA_skipMFA' is clicked on
+
+2020-03-26 14:13:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login DH (desktop)/Page_DEARhealth/button_Sign In")): Object: 'Object Repository/Login DH (desktop)/Page_DEARhealth/button_Sign In' is clicked on
+
+2020-03-26 14:13:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Login DH (desktop)/Page_DEARhealth/button_Sign In' is clicked on
+
+2020-03-26 14:13:16 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Login DH (desktop)/Page_Provider site/li_Home"), 0): Object 'Object Repository/Login DH (desktop)/Page_Provider site/li_Home' is present
+
+2020-03-26 14:13:16 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2020-03-26 14:13:16 - [MESSAGE][PASSED] - Object 'Object Repository/Login DH (desktop)/Page_Provider site/li_Home' is present
+
+2020-03-26 14:13:16 - [TEST_STEP][PASSED] - waitForElementPresent("Object Repository/Login DH (desktop)/Page_Provider site/span_Eliena Test", 10): null
+
+2020-03-26 14:13:16 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[2020-03-26 14:13:12 - [TEST_CASE][ERROR] - Test Cases/Dear Health physician (desktop)/Login to DH desktop: Test Cases/Dear Health physician (desktop)/Login to DH desktop FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.waitForElementPresent() is applicable for argument types: (java.lang.String, java.lang.Integer) values: [Object Repository/Login DH (desktop)/Page_Provider site/span_Eliena Test, ...]
+Possible solutions: waitForElementPresent(com.kms.katalon.core.testobject.TestObject, int), waitForElementPresent(com.kms.katalon.core.testobject.TestObject, int, com.kms.katalon.core.model.FailureHandling), waitForElementNotPresent(com.kms.katalon.core.testobject.TestObject, int), waitForElementNotPresent(com.kms.katalon.core.testobject.TestObject, int, com.kms.katalon.core.model.FailureHandling)
+	at Login to DH desktop.run(Login to DH desktop:37)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1585228388382.run(TempTestSuite1585228388382.groovy:36)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2020-03-26 14:13:12 - [TEST_SUITE][ERROR] - First suite: Test Cases/Dear Health physician (desktop)/Login to DH desktop FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.waitForElementPresent() is applicable for argument types: (java.lang.String, java.lang.Integer) values: [Object Repository/Login DH (desktop)/Page_Provider site/span_Eliena Test, ...]
+Possible solutions: waitForElementPresent(com.kms.katalon.core.testobject.TestObject, int), waitForElementPresent(com.kms.katalon.core.testobject.TestObject, int, com.kms.katalon.core.model.FailureHandling), waitForElementNotPresent(com.kms.katalon.core.testobject.TestObject, int), waitForElementNotPresent(com.kms.katalon.core.testobject.TestObject, int, com.kms.katalon.core.model.FailureHandling)
+	at Login to DH desktop.run(Login to DH desktop:37)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1585228388382.run(TempTestSuite1585228388382.groovy:36)]]></system-out>
+      <system-err><![CDATA[2020-03-26 14:13:12 - [TEST_SUITE][ERROR] - First suite: Test Cases/Dear Health physician (desktop)/Login to DH desktop FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.waitForElementPresent() is applicable for argument types: (java.lang.String, java.lang.Integer) values: [Object Repository/Login DH (desktop)/Page_Provider site/span_Eliena Test, ...]
+Possible solutions: waitForElementPresent(com.kms.katalon.core.testobject.TestObject, int), waitForElementPresent(com.kms.katalon.core.testobject.TestObject, int, com.kms.katalon.core.model.FailureHandling), waitForElementNotPresent(com.kms.katalon.core.testobject.TestObject, int), waitForElementNotPresent(com.kms.katalon.core.testobject.TestObject, int, com.kms.katalon.core.model.FailureHandling)
+	at Login to DH desktop.run(Login to DH desktop:37)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1585228388382.run(TempTestSuite1585228388382.groovy:36)]]></system-err>
+   </testsuite>
+</testsuites>

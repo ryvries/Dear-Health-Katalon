@@ -34,7 +34,11 @@ WebUI.click(findTestObject('Object Repository/Login DH (desktop)/Page_DEARhealth
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Login DH (desktop)/Page_Provider site/li_Home'), 0)
 
+WebUI.waitForElementPresent(findTestObject('Object Repository/Login DH (desktop)/Page_Provider site/span_Eliena Test') , 10)
+
 WebUI.click(findTestObject('Object Repository/Login DH (desktop)/Page_Provider site/span_Eliena Test'))
+
+WebUI.waitForElementPresent(findTestObject('Object Repository/Login DH (desktop)/Page_Provider site/button_Sign Out'),10 )
 
 WebUI.click(findTestObject('Object Repository/Login DH (desktop)/Page_Provider site/button_Sign Out'))
 
