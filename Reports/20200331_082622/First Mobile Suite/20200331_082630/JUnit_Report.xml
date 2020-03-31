@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="First Mobile Suite" time="92.34" tests="1" failures="0" errors="0">
+   <testsuite name="First Mobile Suite" tests="1" failures="0" errors="0" time="92.34" timestamp="2020-03-31 08:26:34" hostname="robdevries - localhost" id="Test Suites/First Mobile Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/robdevries/git/Dear-Health-Katalon/Reports/20200331_082622/First Mobile Suite/20200331_082630"/>
+         <property name="logFiles" value="/Users/robdevries/git/Dear-Health-Katalon/Reports/20200331_082622/First Mobile Suite/20200331_082630/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="robdevries - localhost"/>
+         <property name="desiredCapabilities" value="{\n  \&quot;acceptSslCerts\&quot;: true,\n  \&quot;app\&quot;: \&quot;kobiton-store:54245\&quot;,\n  \&quot;browserName\&quot;: \&quot;chrome\&quot;,\n  \&quot;captureSreenShots\&quot;: true,\n  \&quot;deviceName\&quot;: \&quot;SAMSUNG SM-G986U1\&quot;,\n  \&quot;deviceOrientation\&quot;: \&quot;portrait\&quot;,\n  \&quot;platformName\&quot;: \&quot;Android\&quot;,\n  \&quot;platformVersion\&quot;: \&quot;10\&quot;,\n  \&quot;sessionDescription\&quot;: \&quot;\&quot;,\n  \&quot;sessionName\&quot;: \&quot;Automation test session\&quot;\n}"/>
+         <property name="remoteDriverUrl" value="http://Roby40:156ac819-e024-4d6e-b1fc-f769565495ba@api.kobiton.com/wd/hub"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="appiumServerStatus" value="{\&quot;status\&quot;:0,\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.13.0\&quot;,\&quot;revision\&quot;:\&quot;fd170567d5eeb8a7aaf2a693e33389484001e881\&quot;}},\&quot;sessionId\&quot;:null}"/>
+         <property name="katalonVersion" value="7.2.6.1"/>
+         <property name="appiumVersion" value="1.13.0"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+      </properties>
+      <testcase name="Test Cases/Dear Health Patient (android)/android first" time="91.073" classname="Test Cases/Dear Health Patient (android)/android first" status="PASSED">
+         <system-out><![CDATA[2020-03-31 08:26:34 - [TEST_CASE][PASSED] - Test Cases/Dear Health Patient (android)/android first: Test Cases/Dear Health Patient (android)/android first
+
+2020-03-31 08:26:34 - [TEST_STEP][PASSED] - startApplication("kobiton-store:54245", true): Started app at: 'kobiton-store:54245'
+
+2020-03-31 08:27:12 - [MESSAGE][PASSED] - Started app at: 'kobiton-store:54245'
+
+2020-03-31 08:27:12 - [TEST_STEP][PASSED] - tap(findTestObject("First android/android.widget.TextView0"), 0): Tapped on element 'Object Repository/First android/android.widget.TextView0'
+
+2020-03-31 08:27:12 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2020-03-31 08:27:14 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/First android/android.widget.TextView0'
+
+2020-03-31 08:27:14 - [TEST_STEP][PASSED] - tap(findTestObject("First android/android.widget.ImageButton0"), 0): Tapped on element 'Object Repository/First android/android.widget.ImageButton0'
+
+2020-03-31 08:27:14 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2020-03-31 08:27:17 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/First android/android.widget.ImageButton0'
+
+2020-03-31 08:27:17 - [TEST_STEP][PASSED] - tap(findTestObject("First android/android.widget.TextView0 (1)"), 0): Tapped on element 'Object Repository/First android/android.widget.TextView0 (1)'
+
+2020-03-31 08:27:17 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2020-03-31 08:27:21 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/First android/android.widget.TextView0 (1)'
+
+2020-03-31 08:27:21 - [TEST_STEP][PASSED] - tap(findTestObject("First android/android.widget.ImageButton0 (1)"), 0): Tapped on element 'Object Repository/First android/android.widget.ImageButton0 (1)'
+
+2020-03-31 08:27:21 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2020-03-31 08:27:24 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/First android/android.widget.ImageButton0 (1)'
+
+2020-03-31 08:27:24 - [TEST_STEP][PASSED] - tap(findTestObject("First android/android.widget.RadioButton0 - EU"), 0): Tapped on element 'Object Repository/First android/android.widget.RadioButton0 - EU'
+
+2020-03-31 08:27:24 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2020-03-31 08:27:27 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/First android/android.widget.RadioButton0 - EU'
+
+2020-03-31 08:27:27 - [TEST_STEP][PASSED] - tap(findTestObject("First android/android.widget.RadioButton0 - US"), 0): Tapped on element 'Object Repository/First android/android.widget.RadioButton0 - US'
+
+2020-03-31 08:27:27 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2020-03-31 08:27:30 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/First android/android.widget.RadioButton0 - US'
+
+2020-03-31 08:27:30 - [TEST_STEP][PASSED] - tap(findTestObject("First android/android.widget.RadioButton0 - EU"), 0): Tapped on element 'Object Repository/First android/android.widget.RadioButton0 - EU'
+
+2020-03-31 08:27:30 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2020-03-31 08:27:33 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/First android/android.widget.RadioButton0 - EU'
+
+2020-03-31 08:27:33 - [TEST_STEP][PASSED] - setText(findTestObject("First android/android.widget.EditText0 - Search provider... (5)"), "Dev", 0): Text 'Dev' has been set to element 'Object Repository/First android/android.widget.EditText0 - Search provider... (5)'
+
+2020-03-31 08:27:33 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2020-03-31 08:27:35 - [MESSAGE][PASSED] - Text 'Dev' has been set to element 'Object Repository/First android/android.widget.EditText0 - Search provider... (5)'
+
+2020-03-31 08:27:35 - [TEST_STEP][PASSED] - tap(findTestObject("First android/android.widget.ImageView0 (5)"), 0): Tapped on element 'Object Repository/First android/android.widget.ImageView0 (5)'
+
+2020-03-31 08:27:35 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2020-03-31 08:27:38 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/First android/android.widget.ImageView0 (5)'
+
+2020-03-31 08:27:38 - [TEST_STEP][PASSED] - setText(findTestObject("First android/android.widget.EditText0 - Search provider... (5)"), "Lu", 0): Text 'Lu' has been set to element 'Object Repository/First android/android.widget.EditText0 - Search provider... (5)'
+
+2020-03-31 08:27:38 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2020-03-31 08:27:40 - [MESSAGE][PASSED] - Text 'Lu' has been set to element 'Object Repository/First android/android.widget.EditText0 - Search provider... (5)'
+
+2020-03-31 08:27:40 - [TEST_STEP][PASSED] - tap(findTestObject("First android/android.widget.ImageView0 (6)"), 0): Tapped on element 'Object Repository/First android/android.widget.ImageView0 (6)'
+
+2020-03-31 08:27:40 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2020-03-31 08:27:45 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/First android/android.widget.ImageView0 (6)'
+
+2020-03-31 08:27:45 - [TEST_STEP][PASSED] - tap(findTestObject("First android/android.widget.ImageView0 (5)"), 0): Tapped on element 'Object Repository/First android/android.widget.ImageView0 (5)'
+
+2020-03-31 08:27:45 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2020-03-31 08:27:47 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/First android/android.widget.ImageView0 (5)'
+
+2020-03-31 08:27:47 - [TEST_STEP][PASSED] - setText(findTestObject("First android/android.widget.EditText0 - Search provider... (5)"), "Dev", 0): Text 'Dev' has been set to element 'Object Repository/First android/android.widget.EditText0 - Search provider... (5)'
+
+2020-03-31 08:27:47 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2020-03-31 08:27:49 - [MESSAGE][PASSED] - Text 'Dev' has been set to element 'Object Repository/First android/android.widget.EditText0 - Search provider... (5)'
+
+2020-03-31 08:27:49 - [TEST_STEP][PASSED] - tap(findTestObject("First android/android.widget.ImageView0 (7)"), 0): Tapped on element 'Object Repository/First android/android.widget.ImageView0 (7)'
+
+2020-03-31 08:27:49 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2020-03-31 08:27:51 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/First android/android.widget.ImageView0 (7)'
+
+2020-03-31 08:27:51 - [TEST_STEP][PASSED] - setText(findTestObject("First android/android.widget.EditText0 - Email Address (2)"), "rob.devries@dearhealth.com", 0): Text 'rob.devries@dearhealth.com' has been set to element 'Object Repository/First android/android.widget.EditText0 - Email Address (2)'
+
+2020-03-31 08:27:51 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2020-03-31 08:27:53 - [MESSAGE][PASSED] - Text 'rob.devries@dearhealth.com' has been set to element 'Object Repository/First android/android.widget.EditText0 - Email Address (2)'
+
+2020-03-31 08:27:53 - [TEST_STEP][PASSED] - setText(findTestObject("First android/android.widget.EditText0 - Password (2)"), "Lekker-01", 0): Text 'Lekker-01' has been set to element 'Object Repository/First android/android.widget.EditText0 - Password (2)'
+
+2020-03-31 08:27:53 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2020-03-31 08:27:56 - [MESSAGE][PASSED] - Text 'Lekker-01' has been set to element 'Object Repository/First android/android.widget.EditText0 - Password (2)'
+
+2020-03-31 08:27:56 - [TEST_STEP][PASSED] - tap(findTestObject("First android/android.widget.Button0 - LOGIN AS CAREGIVER"), 0): Tapped on element 'Object Repository/First android/android.widget.Button0 - LOGIN AS CAREGIVER'
+
+2020-03-31 08:27:56 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2020-03-31 08:27:58 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/First android/android.widget.Button0 - LOGIN AS CAREGIVER'
+
+2020-03-31 08:27:58 - [TEST_STEP][PASSED] - tap(findTestObject("First android/android.widget.Button0 - OK (1)"), 0): Tapped on element 'Object Repository/First android/android.widget.Button0 - OK (1)'
+
+2020-03-31 08:27:58 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2020-03-31 08:28:03 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/First android/android.widget.Button0 - OK (1)'
+
+2020-03-31 08:28:03 - [TEST_STEP][PASSED] - tap(findTestObject("First android/android.widget.Button0 - LOGIN AS PATIENT (2)"), 0): Tapped on element 'Object Repository/First android/android.widget.Button0 - LOGIN AS PATIENT (2)'
+
+2020-03-31 08:28:03 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2020-03-31 08:28:05 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/First android/android.widget.Button0 - LOGIN AS PATIENT (2)'
+
+2020-03-31 08:28:05 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2020-03-31 08:26:34 - [TEST_SUITE][PASSED] - First Mobile Suite: Test Cases/Dear Health Patient (android)/android first]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

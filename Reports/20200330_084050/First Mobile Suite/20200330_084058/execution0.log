@@ -2344,4 +2344,4694 @@ remote stacktrace:
   <message>End Test Suite : Test Suites/First Mobile Suite</message>
   <nestedLevel>0</nestedLevel>
 </record>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<record>
+  <date>2020-03-30T08:46:18</date>
+  <millis>1585550778128</millis>
+  <sequence>1200</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>709</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T08:46:39</date>
+  <millis>1585550799978</millis>
+  <sequence>1201</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>715</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T08:47:23</date>
+  <millis>1585550843644</millis>
+  <sequence>1202</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>720</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T08:47:49</date>
+  <millis>1585550869534</millis>
+  <sequence>1203</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>725</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T08:48:04</date>
+  <millis>1585550884455</millis>
+  <sequence>1204</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>730</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T08:48:37</date>
+  <millis>1585550917676</millis>
+  <sequence>1205</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>735</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T08:48:49</date>
+  <millis>1585550929630</millis>
+  <sequence>1206</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>740</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T08:53:57</date>
+  <millis>1585551237677</millis>
+  <sequence>1238</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>807</thread>
+  <message>deviceId = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">null</property>
+</record>
+<record>
+  <date>2020-03-30T08:53:57</date>
+  <millis>1585551237678</millis>
+  <sequence>1239</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>807</thread>
+  <message>deviceName = Galaxy S10+</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Galaxy S10+</property>
+</record>
+<record>
+  <date>2020-03-30T08:53:57</date>
+  <millis>1585551237678</millis>
+  <sequence>1240</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>807</thread>
+  <message>deviceModel = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">null</property>
+</record>
+<record>
+  <date>2020-03-30T08:53:57</date>
+  <millis>1585551237678</millis>
+  <sequence>1241</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>807</thread>
+  <message>deviceManufacturer = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">null</property>
+</record>
+<record>
+  <date>2020-03-30T08:53:57</date>
+  <millis>1585551237678</millis>
+  <sequence>1242</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>807</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T08:53:57</date>
+  <millis>1585551237679</millis>
+  <sequence>1243</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>807</thread>
+  <message>deviceOSVersion = 9</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">9</property>
+</record>
+<record>
+  <date>2020-03-30T08:54:02</date>
+  <millis>1585551242798</millis>
+  <sequence>1248</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>815</thread>
+  <message>deviceId = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">null</property>
+</record>
+<record>
+  <date>2020-03-30T08:54:02</date>
+  <millis>1585551242798</millis>
+  <sequence>1249</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>815</thread>
+  <message>deviceName = Galaxy S10+</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Galaxy S10+</property>
+</record>
+<record>
+  <date>2020-03-30T08:54:02</date>
+  <millis>1585551242799</millis>
+  <sequence>1250</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>815</thread>
+  <message>deviceModel = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">null</property>
+</record>
+<record>
+  <date>2020-03-30T08:54:02</date>
+  <millis>1585551242799</millis>
+  <sequence>1251</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>815</thread>
+  <message>deviceManufacturer = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">null</property>
+</record>
+<record>
+  <date>2020-03-30T08:54:02</date>
+  <millis>1585551242799</millis>
+  <sequence>1252</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>815</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T08:54:02</date>
+  <millis>1585551242799</millis>
+  <sequence>1253</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>815</thread>
+  <message>deviceOSVersion = 9</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">9</property>
+</record>
+<record>
+  <date>2020-03-30T08:56:29</date>
+  <millis>1585551389651</millis>
+  <sequence>1259</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>818</thread>
+  <message>appiumVersion = 1.13.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.13.0</property>
+</record>
+<record>
+  <date>2020-03-30T08:56:29</date>
+  <millis>1585551389652</millis>
+  <sequence>1260</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>818</thread>
+  <message>appiumServerStatus = {\&amp;quot;status\&amp;quot;:0,\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.13.0\&amp;quot;,\&amp;quot;revision\&amp;quot;:\&amp;quot;fd170567d5eeb8a7aaf2a693e33389484001e881\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;status\&quot;:0,\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.13.0\&quot;,\&quot;revision\&quot;:\&quot;fd170567d5eeb8a7aaf2a693e33389484001e881\&quot;}},\&quot;sessionId\&quot;:null}</property>
+</record>
+<record>
+  <date>2020-03-30T08:56:29</date>
+  <millis>1585551389871</millis>
+  <sequence>1261</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>818</thread>
+  <message>deviceId = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">null</property>
+</record>
+<record>
+  <date>2020-03-30T08:56:29</date>
+  <millis>1585551389871</millis>
+  <sequence>1262</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>818</thread>
+  <message>deviceName = Galaxy J7(2016)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Galaxy J7(2016)</property>
+</record>
+<record>
+  <date>2020-03-30T08:56:29</date>
+  <millis>1585551389871</millis>
+  <sequence>1263</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>818</thread>
+  <message>deviceModel = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">null</property>
+</record>
+<record>
+  <date>2020-03-30T08:56:29</date>
+  <millis>1585551389872</millis>
+  <sequence>1264</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>818</thread>
+  <message>deviceManufacturer = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">null</property>
+</record>
+<record>
+  <date>2020-03-30T08:56:29</date>
+  <millis>1585551389872</millis>
+  <sequence>1265</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>818</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T08:56:29</date>
+  <millis>1585551389872</millis>
+  <sequence>1266</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>818</thread>
+  <message>deviceOSVersion = 6.0.1</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">6.0.1</property>
+</record>
+<record>
+  <date>2020-03-30T09:04:49</date>
+  <millis>1585551889694</millis>
+  <sequence>1269</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>828</thread>
+  <message>appiumVersion = 1.13.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.13.0</property>
+</record>
+<record>
+  <date>2020-03-30T09:04:49</date>
+  <millis>1585551889695</millis>
+  <sequence>1270</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>828</thread>
+  <message>appiumServerStatus = {\&amp;quot;status\&amp;quot;:0,\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.13.0\&amp;quot;,\&amp;quot;revision\&amp;quot;:\&amp;quot;fd170567d5eeb8a7aaf2a693e33389484001e881\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;status\&quot;:0,\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.13.0\&quot;,\&quot;revision\&quot;:\&quot;fd170567d5eeb8a7aaf2a693e33389484001e881\&quot;}},\&quot;sessionId\&quot;:null}</property>
+</record>
+<record>
+  <date>2020-03-30T09:04:49</date>
+  <millis>1585551889847</millis>
+  <sequence>1271</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>828</thread>
+  <message>deviceId = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">null</property>
+</record>
+<record>
+  <date>2020-03-30T09:04:49</date>
+  <millis>1585551889848</millis>
+  <sequence>1272</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>828</thread>
+  <message>deviceName = Galaxy Note10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">Galaxy Note10</property>
+</record>
+<record>
+  <date>2020-03-30T09:04:49</date>
+  <millis>1585551889848</millis>
+  <sequence>1273</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>828</thread>
+  <message>deviceModel = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">null</property>
+</record>
+<record>
+  <date>2020-03-30T09:04:49</date>
+  <millis>1585551889848</millis>
+  <sequence>1274</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>828</thread>
+  <message>deviceManufacturer = null</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">null</property>
+</record>
+<record>
+  <date>2020-03-30T09:04:49</date>
+  <millis>1585551889849</millis>
+  <sequence>1275</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>828</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T09:04:49</date>
+  <millis>1585551889849</millis>
+  <sequence>1276</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>828</thread>
+  <message>deviceOSVersion = 9</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">9</property>
+</record>
+<record>
+  <date>2020-03-30T09:05:22</date>
+  <millis>1585551922196</millis>
+  <sequence>1277</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>847</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T09:05:34</date>
+  <millis>1585551934762</millis>
+  <sequence>1280</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>850</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T09:06:03</date>
+  <millis>1585551963147</millis>
+  <sequence>1281</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>856</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T09:06:26</date>
+  <millis>1585551986655</millis>
+  <sequence>1282</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>861</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T09:06:49</date>
+  <millis>1585552009470</millis>
+  <sequence>1283</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>868</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T09:07:10</date>
+  <millis>1585552030044</millis>
+  <sequence>1284</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>873</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T09:08:13</date>
+  <millis>1585552093555</millis>
+  <sequence>1285</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>881</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T09:08:18</date>
+  <millis>1585552098052</millis>
+  <sequence>1289</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>883</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T09:08:23</date>
+  <millis>1585552103763</millis>
+  <sequence>1293</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>887</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T09:08:28</date>
+  <millis>1585552108416</millis>
+  <sequence>1297</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>889</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T09:08:49</date>
+  <millis>1585552129410</millis>
+  <sequence>1301</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>899</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T09:09:25</date>
+  <millis>1585552165765</millis>
+  <sequence>1305</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>905</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<record>
+  <date>2020-03-30T10:52:04</date>
+  <millis>1585558324984</millis>
+  <sequence>466</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>139</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T10:53:05</date>
+  <millis>1585558385816</millis>
+  <sequence>467</sequence>
+  <level>FAILED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>139</thread>
+  <message>Object android.widget.Button0 - CANCEL not found</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T10:53:26</date>
+  <millis>1585558406211</millis>
+  <sequence>469</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>141</thread>
+  <message>Appium server started on port 60.400</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T10:53:32</date>
+  <millis>1585558412835</millis>
+  <sequence>471</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>141</thread>
+  <message>appiumVersion = 1.17.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.17.0</property>
+</record>
+<record>
+  <date>2020-03-30T10:53:32</date>
+  <millis>1585558412835</millis>
+  <sequence>472</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>141</thread>
+  <message>appiumServerStatus = {\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.17.0\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null,\&amp;quot;status\&amp;quot;:0}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.17.0\&quot;}},\&quot;sessionId\&quot;:null,\&quot;status\&quot;:0}</property>
+</record>
+<record>
+  <date>2020-03-30T10:53:32</date>
+  <millis>1585558412841</millis>
+  <sequence>473</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>141</thread>
+  <message>deviceId = 22X7N19424001756</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">22X7N19424001756</property>
+</record>
+<record>
+  <date>2020-03-30T10:53:32</date>
+  <millis>1585558412841</millis>
+  <sequence>474</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>141</thread>
+  <message>deviceName = HUAWEI VOG-L29 (Android 10)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">HUAWEI VOG-L29 (Android 10)</property>
+</record>
+<record>
+  <date>2020-03-30T10:53:32</date>
+  <millis>1585558412841</millis>
+  <sequence>475</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>141</thread>
+  <message>deviceModel = VOG-L29</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">VOG-L29</property>
+</record>
+<record>
+  <date>2020-03-30T10:53:32</date>
+  <millis>1585558412841</millis>
+  <sequence>476</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>141</thread>
+  <message>deviceManufacturer = HUAWEI</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">HUAWEI</property>
+</record>
+<record>
+  <date>2020-03-30T10:53:32</date>
+  <millis>1585558412841</millis>
+  <sequence>477</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>141</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T10:53:32</date>
+  <millis>1585558412842</millis>
+  <sequence>478</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>141</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-30T10:54:04</date>
+  <millis>1585558444524</millis>
+  <sequence>479</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>164</thread>
+  <message>Appium server started on port 60.547</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T10:54:11</date>
+  <millis>1585558451132</millis>
+  <sequence>481</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>164</thread>
+  <message>appiumVersion = 1.17.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.17.0</property>
+</record>
+<record>
+  <date>2020-03-30T10:54:11</date>
+  <millis>1585558451132</millis>
+  <sequence>482</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>164</thread>
+  <message>appiumServerStatus = {\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.17.0\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null,\&amp;quot;status\&amp;quot;:0}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.17.0\&quot;}},\&quot;sessionId\&quot;:null,\&quot;status\&quot;:0}</property>
+</record>
+<record>
+  <date>2020-03-30T10:54:11</date>
+  <millis>1585558451138</millis>
+  <sequence>483</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>164</thread>
+  <message>deviceId = 22X7N19424001756</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">22X7N19424001756</property>
+</record>
+<record>
+  <date>2020-03-30T10:54:11</date>
+  <millis>1585558451138</millis>
+  <sequence>484</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>164</thread>
+  <message>deviceName = HUAWEI VOG-L29 (Android 10)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">HUAWEI VOG-L29 (Android 10)</property>
+</record>
+<record>
+  <date>2020-03-30T10:54:11</date>
+  <millis>1585558451138</millis>
+  <sequence>485</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>164</thread>
+  <message>deviceModel = VOG-L29</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">VOG-L29</property>
+</record>
+<record>
+  <date>2020-03-30T10:54:11</date>
+  <millis>1585558451138</millis>
+  <sequence>486</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>164</thread>
+  <message>deviceManufacturer = HUAWEI</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">HUAWEI</property>
+</record>
+<record>
+  <date>2020-03-30T10:54:11</date>
+  <millis>1585558451138</millis>
+  <sequence>487</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>164</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T10:54:11</date>
+  <millis>1585558451138</millis>
+  <sequence>488</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>164</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-30T10:54:23</date>
+  <millis>1585558463870</millis>
+  <sequence>489</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>180</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T10:54:34</date>
+  <millis>1585558474028</millis>
+  <sequence>490</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>185</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T10:54:38</date>
+  <millis>1585558478046</millis>
+  <sequence>491</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>190</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T10:54:42</date>
+  <millis>1585558482515</millis>
+  <sequence>492</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>195</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T10:54:46</date>
+  <millis>1585558486883</millis>
+  <sequence>493</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>200</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T10:54:51</date>
+  <millis>1585558491267</millis>
+  <sequence>494</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>205</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T10:57:21</date>
+  <millis>1585558641090</millis>
+  <sequence>495</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>215</thread>
+  <message>Appium server started on port 60.787</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T10:57:27</date>
+  <millis>1585558647648</millis>
+  <sequence>497</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>215</thread>
+  <message>appiumVersion = 1.17.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.17.0</property>
+</record>
+<record>
+  <date>2020-03-30T10:57:27</date>
+  <millis>1585558647648</millis>
+  <sequence>498</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>215</thread>
+  <message>appiumServerStatus = {\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.17.0\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null,\&amp;quot;status\&amp;quot;:0}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.17.0\&quot;}},\&quot;sessionId\&quot;:null,\&quot;status\&quot;:0}</property>
+</record>
+<record>
+  <date>2020-03-30T10:57:27</date>
+  <millis>1585558647653</millis>
+  <sequence>499</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>215</thread>
+  <message>deviceId = 22X7N19424001756</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">22X7N19424001756</property>
+</record>
+<record>
+  <date>2020-03-30T10:57:27</date>
+  <millis>1585558647653</millis>
+  <sequence>500</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>215</thread>
+  <message>deviceName = HUAWEI VOG-L29 (Android 10)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">HUAWEI VOG-L29 (Android 10)</property>
+</record>
+<record>
+  <date>2020-03-30T10:57:27</date>
+  <millis>1585558647653</millis>
+  <sequence>501</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>215</thread>
+  <message>deviceModel = VOG-L29</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">VOG-L29</property>
+</record>
+<record>
+  <date>2020-03-30T10:57:27</date>
+  <millis>1585558647653</millis>
+  <sequence>502</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>215</thread>
+  <message>deviceManufacturer = HUAWEI</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">HUAWEI</property>
+</record>
+<record>
+  <date>2020-03-30T10:57:27</date>
+  <millis>1585558647653</millis>
+  <sequence>503</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>215</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T10:57:27</date>
+  <millis>1585558647654</millis>
+  <sequence>504</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>215</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-30T10:57:35</date>
+  <millis>1585558655219</millis>
+  <sequence>505</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>237</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T10:58:35</date>
+  <millis>1585558715841</millis>
+  <sequence>506</sequence>
+  <level>FAILED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>237</thread>
+  <message>Object android.view.ViewGroup0 not found</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T10:58:46</date>
+  <millis>1585558726588</millis>
+  <sequence>508</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>241</thread>
+  <message>Appium server started on port 60.962</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T10:58:53</date>
+  <millis>1585558733208</millis>
+  <sequence>510</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>241</thread>
+  <message>appiumVersion = 1.17.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.17.0</property>
+</record>
+<record>
+  <date>2020-03-30T10:58:53</date>
+  <millis>1585558733209</millis>
+  <sequence>511</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>241</thread>
+  <message>appiumServerStatus = {\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.17.0\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null,\&amp;quot;status\&amp;quot;:0}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.17.0\&quot;}},\&quot;sessionId\&quot;:null,\&quot;status\&quot;:0}</property>
+</record>
+<record>
+  <date>2020-03-30T10:58:53</date>
+  <millis>1585558733214</millis>
+  <sequence>512</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>241</thread>
+  <message>deviceId = 22X7N19424001756</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">22X7N19424001756</property>
+</record>
+<record>
+  <date>2020-03-30T10:58:53</date>
+  <millis>1585558733214</millis>
+  <sequence>513</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>241</thread>
+  <message>deviceName = HUAWEI VOG-L29 (Android 10)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">HUAWEI VOG-L29 (Android 10)</property>
+</record>
+<record>
+  <date>2020-03-30T10:58:53</date>
+  <millis>1585558733215</millis>
+  <sequence>514</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>241</thread>
+  <message>deviceModel = VOG-L29</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">VOG-L29</property>
+</record>
+<record>
+  <date>2020-03-30T10:58:53</date>
+  <millis>1585558733215</millis>
+  <sequence>515</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>241</thread>
+  <message>deviceManufacturer = HUAWEI</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">HUAWEI</property>
+</record>
+<record>
+  <date>2020-03-30T10:58:53</date>
+  <millis>1585558733215</millis>
+  <sequence>516</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>241</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T10:58:53</date>
+  <millis>1585558733215</millis>
+  <sequence>517</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>241</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-30T10:59:01</date>
+  <millis>1585558741733</millis>
+  <sequence>518</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>260</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T10:59:07</date>
+  <millis>1585558747748</millis>
+  <sequence>519</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>265</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T10:59:12</date>
+  <millis>1585558752400</millis>
+  <sequence>520</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>270</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T10:59:17</date>
+  <millis>1585558757536</millis>
+  <sequence>521</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>275</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T10:59:22</date>
+  <millis>1585558762401</millis>
+  <sequence>522</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>280</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T10:59:28</date>
+  <millis>1585558768809</millis>
+  <sequence>523</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>285</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T10:59:50</date>
+  <millis>1585558790493</millis>
+  <sequence>524</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>291</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T11:00:51</date>
+  <millis>1585558851162</millis>
+  <sequence>525</sequence>
+  <level>FAILED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>291</thread>
+  <message>Object android.view.ViewGroup0 not found</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T11:02:59</date>
+  <millis>1585558979983</millis>
+  <sequence>527</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>295</thread>
+  <message>Appium server started on port 61.459</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T11:03:07</date>
+  <millis>1585558987476</millis>
+  <sequence>529</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>295</thread>
+  <message>appiumVersion = 1.17.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.17.0</property>
+</record>
+<record>
+  <date>2020-03-30T11:03:07</date>
+  <millis>1585558987477</millis>
+  <sequence>530</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>295</thread>
+  <message>appiumServerStatus = {\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.17.0\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null,\&amp;quot;status\&amp;quot;:0}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.17.0\&quot;}},\&quot;sessionId\&quot;:null,\&quot;status\&quot;:0}</property>
+</record>
+<record>
+  <date>2020-03-30T11:03:07</date>
+  <millis>1585558987481</millis>
+  <sequence>531</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>295</thread>
+  <message>deviceId = 22X7N19424001756</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">22X7N19424001756</property>
+</record>
+<record>
+  <date>2020-03-30T11:03:07</date>
+  <millis>1585558987482</millis>
+  <sequence>532</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>295</thread>
+  <message>deviceName = HUAWEI VOG-L29 (Android 10)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">HUAWEI VOG-L29 (Android 10)</property>
+</record>
+<record>
+  <date>2020-03-30T11:03:07</date>
+  <millis>1585558987482</millis>
+  <sequence>533</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>295</thread>
+  <message>deviceModel = VOG-L29</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">VOG-L29</property>
+</record>
+<record>
+  <date>2020-03-30T11:03:07</date>
+  <millis>1585558987482</millis>
+  <sequence>534</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>295</thread>
+  <message>deviceManufacturer = HUAWEI</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">HUAWEI</property>
+</record>
+<record>
+  <date>2020-03-30T11:03:07</date>
+  <millis>1585558987482</millis>
+  <sequence>535</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>295</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T11:03:07</date>
+  <millis>1585558987482</millis>
+  <sequence>536</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>295</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-30T11:05:11</date>
+  <millis>1585559111615</millis>
+  <sequence>557</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>348</thread>
+  <message>Appium server started on port 61.720</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T11:05:18</date>
+  <millis>1585559118213</millis>
+  <sequence>559</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>348</thread>
+  <message>appiumVersion = 1.17.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.17.0</property>
+</record>
+<record>
+  <date>2020-03-30T11:05:18</date>
+  <millis>1585559118214</millis>
+  <sequence>560</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>348</thread>
+  <message>appiumServerStatus = {\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.17.0\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null,\&amp;quot;status\&amp;quot;:0}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.17.0\&quot;}},\&quot;sessionId\&quot;:null,\&quot;status\&quot;:0}</property>
+</record>
+<record>
+  <date>2020-03-30T11:05:18</date>
+  <millis>1585559118218</millis>
+  <sequence>561</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>348</thread>
+  <message>deviceId = 22X7N19424001756</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">22X7N19424001756</property>
+</record>
+<record>
+  <date>2020-03-30T11:05:18</date>
+  <millis>1585559118219</millis>
+  <sequence>562</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>348</thread>
+  <message>deviceName = HUAWEI VOG-L29 (Android 10)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">HUAWEI VOG-L29 (Android 10)</property>
+</record>
+<record>
+  <date>2020-03-30T11:05:18</date>
+  <millis>1585559118219</millis>
+  <sequence>563</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>348</thread>
+  <message>deviceModel = VOG-L29</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">VOG-L29</property>
+</record>
+<record>
+  <date>2020-03-30T11:05:18</date>
+  <millis>1585559118219</millis>
+  <sequence>564</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>348</thread>
+  <message>deviceManufacturer = HUAWEI</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">HUAWEI</property>
+</record>
+<record>
+  <date>2020-03-30T11:05:18</date>
+  <millis>1585559118219</millis>
+  <sequence>565</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>348</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T11:05:18</date>
+  <millis>1585559118219</millis>
+  <sequence>566</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>348</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-30T11:05:27</date>
+  <millis>1585559127499</millis>
+  <sequence>567</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>370</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T11:05:31</date>
+  <millis>1585559131827</millis>
+  <sequence>568</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>375</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T11:05:36</date>
+  <millis>1585559136846</millis>
+  <sequence>569</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>380</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T11:05:41</date>
+  <millis>1585559141395</millis>
+  <sequence>570</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>385</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T11:05:46</date>
+  <millis>1585559146703</millis>
+  <sequence>571</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>390</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T11:05:50</date>
+  <millis>1585559150895</millis>
+  <sequence>572</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>395</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T11:13:58</date>
+  <millis>1585559638241</millis>
+  <sequence>665</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>556</thread>
+  <message>Appium server started on port 62.795</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T11:14:06</date>
+  <millis>1585559646468</millis>
+  <sequence>667</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>556</thread>
+  <message>appiumVersion = 1.17.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.17.0</property>
+</record>
+<record>
+  <date>2020-03-30T11:14:06</date>
+  <millis>1585559646468</millis>
+  <sequence>668</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>556</thread>
+  <message>appiumServerStatus = {\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.17.0\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null,\&amp;quot;status\&amp;quot;:0}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.17.0\&quot;}},\&quot;sessionId\&quot;:null,\&quot;status\&quot;:0}</property>
+</record>
+<record>
+  <date>2020-03-30T11:14:06</date>
+  <millis>1585559646473</millis>
+  <sequence>669</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>556</thread>
+  <message>deviceId = 22X7N19424001756</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">22X7N19424001756</property>
+</record>
+<record>
+  <date>2020-03-30T11:14:06</date>
+  <millis>1585559646473</millis>
+  <sequence>670</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>556</thread>
+  <message>deviceName = HUAWEI VOG-L29 (Android 10)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">HUAWEI VOG-L29 (Android 10)</property>
+</record>
+<record>
+  <date>2020-03-30T11:14:06</date>
+  <millis>1585559646473</millis>
+  <sequence>671</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>556</thread>
+  <message>deviceModel = VOG-L29</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">VOG-L29</property>
+</record>
+<record>
+  <date>2020-03-30T11:14:06</date>
+  <millis>1585559646473</millis>
+  <sequence>672</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>556</thread>
+  <message>deviceManufacturer = HUAWEI</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">HUAWEI</property>
+</record>
+<record>
+  <date>2020-03-30T11:14:06</date>
+  <millis>1585559646473</millis>
+  <sequence>673</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>556</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T11:14:06</date>
+  <millis>1585559646474</millis>
+  <sequence>674</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>556</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-30T11:15:50</date>
+  <millis>1585559750859</millis>
+  <sequence>675</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>598</thread>
+  <message>Appium server started on port 62.994</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T11:15:57</date>
+  <millis>1585559757990</millis>
+  <sequence>677</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>598</thread>
+  <message>appiumVersion = 1.17.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.17.0</property>
+</record>
+<record>
+  <date>2020-03-30T11:15:57</date>
+  <millis>1585559757991</millis>
+  <sequence>678</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>598</thread>
+  <message>appiumServerStatus = {\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.17.0\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null,\&amp;quot;status\&amp;quot;:0}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.17.0\&quot;}},\&quot;sessionId\&quot;:null,\&quot;status\&quot;:0}</property>
+</record>
+<record>
+  <date>2020-03-30T11:15:57</date>
+  <millis>1585559757996</millis>
+  <sequence>679</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>598</thread>
+  <message>deviceId = 22X7N19424001756</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">22X7N19424001756</property>
+</record>
+<record>
+  <date>2020-03-30T11:15:57</date>
+  <millis>1585559757996</millis>
+  <sequence>680</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>598</thread>
+  <message>deviceName = HUAWEI VOG-L29 (Android 10)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">HUAWEI VOG-L29 (Android 10)</property>
+</record>
+<record>
+  <date>2020-03-30T11:15:57</date>
+  <millis>1585559757996</millis>
+  <sequence>681</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>598</thread>
+  <message>deviceModel = VOG-L29</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">VOG-L29</property>
+</record>
+<record>
+  <date>2020-03-30T11:15:57</date>
+  <millis>1585559757996</millis>
+  <sequence>682</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>598</thread>
+  <message>deviceManufacturer = HUAWEI</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">HUAWEI</property>
+</record>
+<record>
+  <date>2020-03-30T11:15:57</date>
+  <millis>1585559757996</millis>
+  <sequence>683</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>598</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T11:15:57</date>
+  <millis>1585559757996</millis>
+  <sequence>684</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>598</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-30T11:44:23</date>
+  <millis>1585561463404</millis>
+  <sequence>851</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>908</thread>
+  <message>Appium server started on port 64.958</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T11:44:35</date>
+  <millis>1585561475933</millis>
+  <sequence>853</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>908</thread>
+  <message>appiumVersion = 1.17.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.17.0</property>
+</record>
+<record>
+  <date>2020-03-30T11:44:35</date>
+  <millis>1585561475933</millis>
+  <sequence>854</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>908</thread>
+  <message>appiumServerStatus = {\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.17.0\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null,\&amp;quot;status\&amp;quot;:0}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.17.0\&quot;}},\&quot;sessionId\&quot;:null,\&quot;status\&quot;:0}</property>
+</record>
+<record>
+  <date>2020-03-30T11:44:35</date>
+  <millis>1585561475938</millis>
+  <sequence>855</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>908</thread>
+  <message>deviceId = 22X7N19424001756</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">22X7N19424001756</property>
+</record>
+<record>
+  <date>2020-03-30T11:44:35</date>
+  <millis>1585561475938</millis>
+  <sequence>856</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>908</thread>
+  <message>deviceName = HUAWEI VOG-L29 (Android 10)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">HUAWEI VOG-L29 (Android 10)</property>
+</record>
+<record>
+  <date>2020-03-30T11:44:35</date>
+  <millis>1585561475938</millis>
+  <sequence>857</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>908</thread>
+  <message>deviceModel = VOG-L29</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">VOG-L29</property>
+</record>
+<record>
+  <date>2020-03-30T11:44:35</date>
+  <millis>1585561475938</millis>
+  <sequence>858</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>908</thread>
+  <message>deviceManufacturer = HUAWEI</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">HUAWEI</property>
+</record>
+<record>
+  <date>2020-03-30T11:44:35</date>
+  <millis>1585561475938</millis>
+  <sequence>859</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>908</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T11:44:35</date>
+  <millis>1585561475938</millis>
+  <sequence>860</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>908</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-30T11:44:52</date>
+  <millis>1585561492940</millis>
+  <sequence>861</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>931</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T11:45:06</date>
+  <millis>1585561506120</millis>
+  <sequence>862</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>936</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T11:51:16</date>
+  <millis>1585561876617</millis>
+  <sequence>933</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1080</thread>
+  <message>Appium server started on port 49.303</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T11:51:26</date>
+  <millis>1585561886574</millis>
+  <sequence>935</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1080</thread>
+  <message>appiumVersion = 1.17.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.17.0</property>
+</record>
+<record>
+  <date>2020-03-30T11:51:26</date>
+  <millis>1585561886574</millis>
+  <sequence>936</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1080</thread>
+  <message>appiumServerStatus = {\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.17.0\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null,\&amp;quot;status\&amp;quot;:0}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.17.0\&quot;}},\&quot;sessionId\&quot;:null,\&quot;status\&quot;:0}</property>
+</record>
+<record>
+  <date>2020-03-30T11:51:26</date>
+  <millis>1585561886578</millis>
+  <sequence>937</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1080</thread>
+  <message>deviceId = 22X7N19424001756</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">22X7N19424001756</property>
+</record>
+<record>
+  <date>2020-03-30T11:51:26</date>
+  <millis>1585561886579</millis>
+  <sequence>938</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1080</thread>
+  <message>deviceName = HUAWEI VOG-L29 (Android 10)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">HUAWEI VOG-L29 (Android 10)</property>
+</record>
+<record>
+  <date>2020-03-30T11:51:26</date>
+  <millis>1585561886579</millis>
+  <sequence>939</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1080</thread>
+  <message>deviceModel = VOG-L29</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">VOG-L29</property>
+</record>
+<record>
+  <date>2020-03-30T11:51:26</date>
+  <millis>1585561886579</millis>
+  <sequence>940</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1080</thread>
+  <message>deviceManufacturer = HUAWEI</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">HUAWEI</property>
+</record>
+<record>
+  <date>2020-03-30T11:51:26</date>
+  <millis>1585561886579</millis>
+  <sequence>941</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1080</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T11:51:26</date>
+  <millis>1585561886579</millis>
+  <sequence>942</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1080</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-30T11:52:22</date>
+  <millis>1585561942617</millis>
+  <sequence>943</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1103</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T11:52:29</date>
+  <millis>1585561949504</millis>
+  <sequence>946</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1105</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T11:52:51</date>
+  <millis>1585561971037</millis>
+  <sequence>949</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1109</thread>
+  <message>Appium server started on port 49.517</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T11:53:00</date>
+  <millis>1585561980862</millis>
+  <sequence>951</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1109</thread>
+  <message>appiumVersion = 1.17.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.17.0</property>
+</record>
+<record>
+  <date>2020-03-30T11:53:00</date>
+  <millis>1585561980862</millis>
+  <sequence>952</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1109</thread>
+  <message>appiumServerStatus = {\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.17.0\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null,\&amp;quot;status\&amp;quot;:0}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.17.0\&quot;}},\&quot;sessionId\&quot;:null,\&quot;status\&quot;:0}</property>
+</record>
+<record>
+  <date>2020-03-30T11:53:00</date>
+  <millis>1585561980867</millis>
+  <sequence>953</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1109</thread>
+  <message>deviceId = 22X7N19424001756</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">22X7N19424001756</property>
+</record>
+<record>
+  <date>2020-03-30T11:53:00</date>
+  <millis>1585561980867</millis>
+  <sequence>954</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1109</thread>
+  <message>deviceName = HUAWEI VOG-L29 (Android 10)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">HUAWEI VOG-L29 (Android 10)</property>
+</record>
+<record>
+  <date>2020-03-30T11:53:00</date>
+  <millis>1585561980867</millis>
+  <sequence>955</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1109</thread>
+  <message>deviceModel = VOG-L29</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">VOG-L29</property>
+</record>
+<record>
+  <date>2020-03-30T11:53:00</date>
+  <millis>1585561980867</millis>
+  <sequence>956</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1109</thread>
+  <message>deviceManufacturer = HUAWEI</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">HUAWEI</property>
+</record>
+<record>
+  <date>2020-03-30T11:53:00</date>
+  <millis>1585561980867</millis>
+  <sequence>957</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1109</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T11:53:00</date>
+  <millis>1585561980867</millis>
+  <sequence>958</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1109</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-30T11:53:13</date>
+  <millis>1585561993817</millis>
+  <sequence>959</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1128</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T11:53:29</date>
+  <millis>1585562009240</millis>
+  <sequence>960</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1133</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T11:59:25</date>
+  <millis>1585562365314</millis>
+  <sequence>996</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1225</thread>
+  <message>Appium server started on port 50.077</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T11:59:33</date>
+  <millis>1585562373525</millis>
+  <sequence>998</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1225</thread>
+  <message>appiumVersion = 1.17.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.17.0</property>
+</record>
+<record>
+  <date>2020-03-30T11:59:33</date>
+  <millis>1585562373525</millis>
+  <sequence>999</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1225</thread>
+  <message>appiumServerStatus = {\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.17.0\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null,\&amp;quot;status\&amp;quot;:0}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.17.0\&quot;}},\&quot;sessionId\&quot;:null,\&quot;status\&quot;:0}</property>
+</record>
+<record>
+  <date>2020-03-30T11:59:33</date>
+  <millis>1585562373532</millis>
+  <sequence>1000</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1225</thread>
+  <message>deviceId = 22X7N19424001756</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">22X7N19424001756</property>
+</record>
+<record>
+  <date>2020-03-30T11:59:33</date>
+  <millis>1585562373532</millis>
+  <sequence>1001</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1225</thread>
+  <message>deviceName = HUAWEI VOG-L29 (Android 10)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">HUAWEI VOG-L29 (Android 10)</property>
+</record>
+<record>
+  <date>2020-03-30T11:59:33</date>
+  <millis>1585562373532</millis>
+  <sequence>1002</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1225</thread>
+  <message>deviceModel = VOG-L29</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">VOG-L29</property>
+</record>
+<record>
+  <date>2020-03-30T11:59:33</date>
+  <millis>1585562373532</millis>
+  <sequence>1003</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1225</thread>
+  <message>deviceManufacturer = HUAWEI</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">HUAWEI</property>
+</record>
+<record>
+  <date>2020-03-30T11:59:33</date>
+  <millis>1585562373532</millis>
+  <sequence>1004</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1225</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T11:59:33</date>
+  <millis>1585562373533</millis>
+  <sequence>1005</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1225</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-30T11:59:50</date>
+  <millis>1585562390525</millis>
+  <sequence>1006</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1249</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T12:00:00</date>
+  <millis>1585562400000</millis>
+  <sequence>1007</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1254</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T12:00:49</date>
+  <millis>1585562449448</millis>
+  <sequence>1008</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1259</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T12:01:08</date>
+  <millis>1585562468692</millis>
+  <sequence>1009</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1264</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T12:01:36</date>
+  <millis>1585562496468</millis>
+  <sequence>1010</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1272</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T12:10:05</date>
+  <millis>1585563005662</millis>
+  <sequence>1090</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1415</thread>
+  <message>Appium server started on port 51.126</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T12:10:13</date>
+  <millis>1585563013921</millis>
+  <sequence>1092</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1415</thread>
+  <message>appiumVersion = 1.17.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.17.0</property>
+</record>
+<record>
+  <date>2020-03-30T12:10:13</date>
+  <millis>1585563013921</millis>
+  <sequence>1093</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1415</thread>
+  <message>appiumServerStatus = {\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.17.0\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null,\&amp;quot;status\&amp;quot;:0}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.17.0\&quot;}},\&quot;sessionId\&quot;:null,\&quot;status\&quot;:0}</property>
+</record>
+<record>
+  <date>2020-03-30T12:10:13</date>
+  <millis>1585563013928</millis>
+  <sequence>1094</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1415</thread>
+  <message>deviceId = 22X7N19424001756</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">22X7N19424001756</property>
+</record>
+<record>
+  <date>2020-03-30T12:10:13</date>
+  <millis>1585563013928</millis>
+  <sequence>1095</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1415</thread>
+  <message>deviceName = HUAWEI VOG-L29 (Android 10)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">HUAWEI VOG-L29 (Android 10)</property>
+</record>
+<record>
+  <date>2020-03-30T12:10:13</date>
+  <millis>1585563013928</millis>
+  <sequence>1096</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1415</thread>
+  <message>deviceModel = VOG-L29</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">VOG-L29</property>
+</record>
+<record>
+  <date>2020-03-30T12:10:13</date>
+  <millis>1585563013928</millis>
+  <sequence>1097</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1415</thread>
+  <message>deviceManufacturer = HUAWEI</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">HUAWEI</property>
+</record>
+<record>
+  <date>2020-03-30T12:10:13</date>
+  <millis>1585563013928</millis>
+  <sequence>1098</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1415</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T12:10:13</date>
+  <millis>1585563013929</millis>
+  <sequence>1099</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1415</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-30T12:10:40</date>
+  <millis>1585563040766</millis>
+  <sequence>1100</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1439</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T13:29:52</date>
+  <millis>1585567792699</millis>
+  <sequence>1246</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1614</thread>
+  <message>Appium server started on port 61.789</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T13:30:00</date>
+  <millis>1585567800907</millis>
+  <sequence>1248</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1614</thread>
+  <message>appiumVersion = 1.17.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.17.0</property>
+</record>
+<record>
+  <date>2020-03-30T13:30:00</date>
+  <millis>1585567800908</millis>
+  <sequence>1249</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1614</thread>
+  <message>appiumServerStatus = {\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.17.0\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null,\&amp;quot;status\&amp;quot;:0}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.17.0\&quot;}},\&quot;sessionId\&quot;:null,\&quot;status\&quot;:0}</property>
+</record>
+<record>
+  <date>2020-03-30T13:30:00</date>
+  <millis>1585567800912</millis>
+  <sequence>1250</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1614</thread>
+  <message>deviceId = 22X7N19424001756</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">22X7N19424001756</property>
+</record>
+<record>
+  <date>2020-03-30T13:30:00</date>
+  <millis>1585567800913</millis>
+  <sequence>1251</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1614</thread>
+  <message>deviceName = HUAWEI VOG-L29 (Android 10)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">HUAWEI VOG-L29 (Android 10)</property>
+</record>
+<record>
+  <date>2020-03-30T13:30:00</date>
+  <millis>1585567800913</millis>
+  <sequence>1252</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1614</thread>
+  <message>deviceModel = VOG-L29</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">VOG-L29</property>
+</record>
+<record>
+  <date>2020-03-30T13:30:00</date>
+  <millis>1585567800913</millis>
+  <sequence>1253</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1614</thread>
+  <message>deviceManufacturer = HUAWEI</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">HUAWEI</property>
+</record>
+<record>
+  <date>2020-03-30T13:30:00</date>
+  <millis>1585567800913</millis>
+  <sequence>1254</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1614</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T13:30:00</date>
+  <millis>1585567800913</millis>
+  <sequence>1255</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1614</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-30T13:30:42</date>
+  <millis>1585567842678</millis>
+  <sequence>1256</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1638</thread>
+  <message>Appium server started on port 61.955</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T13:30:50</date>
+  <millis>1585567850033</millis>
+  <sequence>1258</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1638</thread>
+  <message>appiumVersion = 1.17.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.17.0</property>
+</record>
+<record>
+  <date>2020-03-30T13:30:50</date>
+  <millis>1585567850033</millis>
+  <sequence>1259</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1638</thread>
+  <message>appiumServerStatus = {\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.17.0\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null,\&amp;quot;status\&amp;quot;:0}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.17.0\&quot;}},\&quot;sessionId\&quot;:null,\&quot;status\&quot;:0}</property>
+</record>
+<record>
+  <date>2020-03-30T13:30:50</date>
+  <millis>1585567850038</millis>
+  <sequence>1260</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1638</thread>
+  <message>deviceId = 22X7N19424001756</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">22X7N19424001756</property>
+</record>
+<record>
+  <date>2020-03-30T13:30:50</date>
+  <millis>1585567850038</millis>
+  <sequence>1261</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1638</thread>
+  <message>deviceName = HUAWEI VOG-L29 (Android 10)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">HUAWEI VOG-L29 (Android 10)</property>
+</record>
+<record>
+  <date>2020-03-30T13:30:50</date>
+  <millis>1585567850038</millis>
+  <sequence>1262</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1638</thread>
+  <message>deviceModel = VOG-L29</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">VOG-L29</property>
+</record>
+<record>
+  <date>2020-03-30T13:30:50</date>
+  <millis>1585567850038</millis>
+  <sequence>1263</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1638</thread>
+  <message>deviceManufacturer = HUAWEI</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">HUAWEI</property>
+</record>
+<record>
+  <date>2020-03-30T13:30:50</date>
+  <millis>1585567850038</millis>
+  <sequence>1264</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1638</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T13:30:50</date>
+  <millis>1585567850038</millis>
+  <sequence>1265</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1638</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-30T13:31:18</date>
+  <millis>1585567878396</millis>
+  <sequence>1266</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1654</thread>
+  <message>Appium server started on port 62.091</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T13:31:25</date>
+  <millis>1585567885490</millis>
+  <sequence>1268</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1654</thread>
+  <message>appiumVersion = 1.17.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.17.0</property>
+</record>
+<record>
+  <date>2020-03-30T13:31:25</date>
+  <millis>1585567885490</millis>
+  <sequence>1269</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1654</thread>
+  <message>appiumServerStatus = {\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.17.0\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null,\&amp;quot;status\&amp;quot;:0}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.17.0\&quot;}},\&quot;sessionId\&quot;:null,\&quot;status\&quot;:0}</property>
+</record>
+<record>
+  <date>2020-03-30T13:31:25</date>
+  <millis>1585567885495</millis>
+  <sequence>1270</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1654</thread>
+  <message>deviceId = 22X7N19424001756</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">22X7N19424001756</property>
+</record>
+<record>
+  <date>2020-03-30T13:31:25</date>
+  <millis>1585567885495</millis>
+  <sequence>1271</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1654</thread>
+  <message>deviceName = HUAWEI VOG-L29 (Android 10)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">HUAWEI VOG-L29 (Android 10)</property>
+</record>
+<record>
+  <date>2020-03-30T13:31:25</date>
+  <millis>1585567885495</millis>
+  <sequence>1272</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1654</thread>
+  <message>deviceModel = VOG-L29</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">VOG-L29</property>
+</record>
+<record>
+  <date>2020-03-30T13:31:25</date>
+  <millis>1585567885496</millis>
+  <sequence>1273</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1654</thread>
+  <message>deviceManufacturer = HUAWEI</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">HUAWEI</property>
+</record>
+<record>
+  <date>2020-03-30T13:31:25</date>
+  <millis>1585567885496</millis>
+  <sequence>1274</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1654</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T13:31:25</date>
+  <millis>1585567885496</millis>
+  <sequence>1275</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1654</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-30T13:31:49</date>
+  <millis>1585567909397</millis>
+  <sequence>1276</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1672</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T13:32:06</date>
+  <millis>1585567926762</millis>
+  <sequence>1277</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1677</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T13:32:15</date>
+  <millis>1585567935322</millis>
+  <sequence>1278</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1682</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T13:32:36</date>
+  <millis>1585567956998</millis>
+  <sequence>1279</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1687</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T13:32:50</date>
+  <millis>1585567970445</millis>
+  <sequence>1280</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1692</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T13:33:11</date>
+  <millis>1585567991017</millis>
+  <sequence>1281</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1697</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T13:33:20</date>
+  <millis>1585568000958</millis>
+  <sequence>1282</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1702</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T13:33:45</date>
+  <millis>1585568025879</millis>
+  <sequence>1283</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1707</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T13:34:09</date>
+  <millis>1585568049562</millis>
+  <sequence>1284</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1713</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T13:34:35</date>
+  <millis>1585568075676</millis>
+  <sequence>1285</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1718</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T13:34:48</date>
+  <millis>1585568088731</millis>
+  <sequence>1286</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1723</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T13:35:02</date>
+  <millis>1585568102729</millis>
+  <sequence>1287</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1728</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T13:35:18</date>
+  <millis>1585568118253</millis>
+  <sequence>1288</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1733</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T13:35:30</date>
+  <millis>1585568130753</millis>
+  <sequence>1289</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1738</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T13:36:08</date>
+  <millis>1585568168598</millis>
+  <sequence>1290</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1743</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T13:36:48</date>
+  <millis>1585568208327</millis>
+  <sequence>1291</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1748</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T13:37:06</date>
+  <millis>1585568226352</millis>
+  <sequence>1292</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1753</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T13:37:18</date>
+  <millis>1585568238207</millis>
+  <sequence>1293</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1758</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T13:37:46</date>
+  <millis>1585568266618</millis>
+  <sequence>1294</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1763</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T13:42:29</date>
+  <millis>1585568549637</millis>
+  <sequence>1314</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1890</thread>
+  <message>Appium server started on port 62.816</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T13:42:37</date>
+  <millis>1585568557880</millis>
+  <sequence>1316</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1890</thread>
+  <message>appiumVersion = 1.17.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.17.0</property>
+</record>
+<record>
+  <date>2020-03-30T13:42:37</date>
+  <millis>1585568557880</millis>
+  <sequence>1317</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1890</thread>
+  <message>appiumServerStatus = {\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.17.0\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null,\&amp;quot;status\&amp;quot;:0}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.17.0\&quot;}},\&quot;sessionId\&quot;:null,\&quot;status\&quot;:0}</property>
+</record>
+<record>
+  <date>2020-03-30T13:42:37</date>
+  <millis>1585568557885</millis>
+  <sequence>1318</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1890</thread>
+  <message>deviceId = 22X7N19424001756</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">22X7N19424001756</property>
+</record>
+<record>
+  <date>2020-03-30T13:42:37</date>
+  <millis>1585568557885</millis>
+  <sequence>1319</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1890</thread>
+  <message>deviceName = HUAWEI VOG-L29 (Android 10)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">HUAWEI VOG-L29 (Android 10)</property>
+</record>
+<record>
+  <date>2020-03-30T13:42:37</date>
+  <millis>1585568557885</millis>
+  <sequence>1320</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1890</thread>
+  <message>deviceModel = VOG-L29</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">VOG-L29</property>
+</record>
+<record>
+  <date>2020-03-30T13:42:37</date>
+  <millis>1585568557886</millis>
+  <sequence>1321</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1890</thread>
+  <message>deviceManufacturer = HUAWEI</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">HUAWEI</property>
+</record>
+<record>
+  <date>2020-03-30T13:42:37</date>
+  <millis>1585568557886</millis>
+  <sequence>1322</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1890</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T13:42:37</date>
+  <millis>1585568557886</millis>
+  <sequence>1323</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1890</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-30T13:42:57</date>
+  <millis>1585568577238</millis>
+  <sequence>1324</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1914</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T13:43:06</date>
+  <millis>1585568586276</millis>
+  <sequence>1325</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1919</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T13:44:29</date>
+  <millis>1585568669015</millis>
+  <sequence>1326</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1928</thread>
+  <message>Appium server started on port 63.006</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T13:44:36</date>
+  <millis>1585568676172</millis>
+  <sequence>1328</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1928</thread>
+  <message>appiumVersion = 1.17.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.17.0</property>
+</record>
+<record>
+  <date>2020-03-30T13:44:36</date>
+  <millis>1585568676172</millis>
+  <sequence>1329</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1928</thread>
+  <message>appiumServerStatus = {\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.17.0\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null,\&amp;quot;status\&amp;quot;:0}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.17.0\&quot;}},\&quot;sessionId\&quot;:null,\&quot;status\&quot;:0}</property>
+</record>
+<record>
+  <date>2020-03-30T13:44:36</date>
+  <millis>1585568676176</millis>
+  <sequence>1330</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1928</thread>
+  <message>deviceId = 22X7N19424001756</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">22X7N19424001756</property>
+</record>
+<record>
+  <date>2020-03-30T13:44:36</date>
+  <millis>1585568676177</millis>
+  <sequence>1331</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1928</thread>
+  <message>deviceName = HUAWEI VOG-L29 (Android 10)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">HUAWEI VOG-L29 (Android 10)</property>
+</record>
+<record>
+  <date>2020-03-30T13:44:36</date>
+  <millis>1585568676177</millis>
+  <sequence>1332</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1928</thread>
+  <message>deviceModel = VOG-L29</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">VOG-L29</property>
+</record>
+<record>
+  <date>2020-03-30T13:44:36</date>
+  <millis>1585568676177</millis>
+  <sequence>1333</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1928</thread>
+  <message>deviceManufacturer = HUAWEI</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">HUAWEI</property>
+</record>
+<record>
+  <date>2020-03-30T13:44:36</date>
+  <millis>1585568676177</millis>
+  <sequence>1334</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1928</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T13:44:36</date>
+  <millis>1585568676177</millis>
+  <sequence>1335</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1928</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-30T13:44:57</date>
+  <millis>1585568697015</millis>
+  <sequence>1336</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1950</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T13:46:00</date>
+  <millis>1585568760570</millis>
+  <sequence>1337</sequence>
+  <level>FAILED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1950</thread>
+  <message>Object android.view.ViewGroup0 not found</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T13:48:43</date>
+  <millis>1585568923248</millis>
+  <sequence>1339</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1954</thread>
+  <message>Appium server started on port 63.309</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T13:48:50</date>
+  <millis>1585568930427</millis>
+  <sequence>1341</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1954</thread>
+  <message>appiumVersion = 1.17.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.17.0</property>
+</record>
+<record>
+  <date>2020-03-30T13:48:50</date>
+  <millis>1585568930427</millis>
+  <sequence>1342</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1954</thread>
+  <message>appiumServerStatus = {\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.17.0\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null,\&amp;quot;status\&amp;quot;:0}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.17.0\&quot;}},\&quot;sessionId\&quot;:null,\&quot;status\&quot;:0}</property>
+</record>
+<record>
+  <date>2020-03-30T13:48:50</date>
+  <millis>1585568930431</millis>
+  <sequence>1343</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1954</thread>
+  <message>deviceId = 22X7N19424001756</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">22X7N19424001756</property>
+</record>
+<record>
+  <date>2020-03-30T13:48:50</date>
+  <millis>1585568930431</millis>
+  <sequence>1344</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1954</thread>
+  <message>deviceName = HUAWEI VOG-L29 (Android 10)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">HUAWEI VOG-L29 (Android 10)</property>
+</record>
+<record>
+  <date>2020-03-30T13:48:50</date>
+  <millis>1585568930432</millis>
+  <sequence>1345</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1954</thread>
+  <message>deviceModel = VOG-L29</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">VOG-L29</property>
+</record>
+<record>
+  <date>2020-03-30T13:48:50</date>
+  <millis>1585568930432</millis>
+  <sequence>1346</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1954</thread>
+  <message>deviceManufacturer = HUAWEI</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">HUAWEI</property>
+</record>
+<record>
+  <date>2020-03-30T13:48:50</date>
+  <millis>1585568930432</millis>
+  <sequence>1347</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1954</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T13:48:50</date>
+  <millis>1585568930432</millis>
+  <sequence>1348</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1954</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-30T13:53:03</date>
+  <millis>1585569183126</millis>
+  <sequence>1351</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1987</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T13:54:03</date>
+  <millis>1585569243851</millis>
+  <sequence>1352</sequence>
+  <level>FAILED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1987</thread>
+  <message>Object android.view.ViewGroup0 not found</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T14:08:02</date>
+  <millis>1585570082974</millis>
+  <sequence>1354</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2008</thread>
+  <message>Appium server started on port 64.350</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T14:08:10</date>
+  <millis>1585570090206</millis>
+  <sequence>1356</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2008</thread>
+  <message>appiumVersion = 1.17.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.17.0</property>
+</record>
+<record>
+  <date>2020-03-30T14:08:10</date>
+  <millis>1585570090206</millis>
+  <sequence>1357</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2008</thread>
+  <message>appiumServerStatus = {\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.17.0\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null,\&amp;quot;status\&amp;quot;:0}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.17.0\&quot;}},\&quot;sessionId\&quot;:null,\&quot;status\&quot;:0}</property>
+</record>
+<record>
+  <date>2020-03-30T14:08:10</date>
+  <millis>1585570090210</millis>
+  <sequence>1358</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2008</thread>
+  <message>deviceId = 22X7N19424001756</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">22X7N19424001756</property>
+</record>
+<record>
+  <date>2020-03-30T14:08:10</date>
+  <millis>1585570090212</millis>
+  <sequence>1359</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2008</thread>
+  <message>deviceName = HUAWEI VOG-L29 (Android 10)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">HUAWEI VOG-L29 (Android 10)</property>
+</record>
+<record>
+  <date>2020-03-30T14:08:10</date>
+  <millis>1585570090212</millis>
+  <sequence>1360</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2008</thread>
+  <message>deviceModel = VOG-L29</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">VOG-L29</property>
+</record>
+<record>
+  <date>2020-03-30T14:08:10</date>
+  <millis>1585570090212</millis>
+  <sequence>1361</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2008</thread>
+  <message>deviceManufacturer = HUAWEI</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">HUAWEI</property>
+</record>
+<record>
+  <date>2020-03-30T14:08:10</date>
+  <millis>1585570090212</millis>
+  <sequence>1362</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2008</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T14:08:10</date>
+  <millis>1585570090212</millis>
+  <sequence>1363</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2008</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-30T14:08:21</date>
+  <millis>1585570101242</millis>
+  <sequence>1364</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2031</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T14:09:21</date>
+  <millis>1585570161334</millis>
+  <sequence>1365</sequence>
+  <level>FAILED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2031</thread>
+  <message>Object android.view.ViewGroup0 not found</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T14:09:25</date>
+  <millis>1585570165292</millis>
+  <sequence>1367</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2033</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T14:10:25</date>
+  <millis>1585570225598</millis>
+  <sequence>1368</sequence>
+  <level>FAILED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2033</thread>
+  <message>Object android.view.ViewGroup0 not found</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T14:11:29</date>
+  <millis>1585570289782</millis>
+  <sequence>1370</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2039</thread>
+  <message>Appium server started on port 64.609</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T14:11:36</date>
+  <millis>1585570296899</millis>
+  <sequence>1372</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2039</thread>
+  <message>appiumVersion = 1.17.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.17.0</property>
+</record>
+<record>
+  <date>2020-03-30T14:11:36</date>
+  <millis>1585570296900</millis>
+  <sequence>1373</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2039</thread>
+  <message>appiumServerStatus = {\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.17.0\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null,\&amp;quot;status\&amp;quot;:0}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.17.0\&quot;}},\&quot;sessionId\&quot;:null,\&quot;status\&quot;:0}</property>
+</record>
+<record>
+  <date>2020-03-30T14:11:36</date>
+  <millis>1585570296904</millis>
+  <sequence>1374</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2039</thread>
+  <message>deviceId = 22X7N19424001756</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">22X7N19424001756</property>
+</record>
+<record>
+  <date>2020-03-30T14:11:36</date>
+  <millis>1585570296904</millis>
+  <sequence>1375</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2039</thread>
+  <message>deviceName = HUAWEI VOG-L29 (Android 10)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">HUAWEI VOG-L29 (Android 10)</property>
+</record>
+<record>
+  <date>2020-03-30T14:11:36</date>
+  <millis>1585570296904</millis>
+  <sequence>1376</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2039</thread>
+  <message>deviceModel = VOG-L29</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">VOG-L29</property>
+</record>
+<record>
+  <date>2020-03-30T14:11:36</date>
+  <millis>1585570296904</millis>
+  <sequence>1377</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2039</thread>
+  <message>deviceManufacturer = HUAWEI</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">HUAWEI</property>
+</record>
+<record>
+  <date>2020-03-30T14:11:36</date>
+  <millis>1585570296905</millis>
+  <sequence>1378</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2039</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T14:11:36</date>
+  <millis>1585570296905</millis>
+  <sequence>1379</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2039</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-30T14:11:43</date>
+  <millis>1585570303205</millis>
+  <sequence>1380</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2062</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T14:12:37</date>
+  <millis>1585570357429</millis>
+  <sequence>1383</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2065</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T14:12:48</date>
+  <millis>1585570368392</millis>
+  <sequence>1386</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2071</thread>
+  <message>Appium server started on port 64.817</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T14:12:59</date>
+  <millis>1585570379099</millis>
+  <sequence>1388</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2071</thread>
+  <message>appiumVersion = 1.17.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.17.0</property>
+</record>
+<record>
+  <date>2020-03-30T14:12:59</date>
+  <millis>1585570379099</millis>
+  <sequence>1389</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2071</thread>
+  <message>appiumServerStatus = {\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.17.0\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null,\&amp;quot;status\&amp;quot;:0}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.17.0\&quot;}},\&quot;sessionId\&quot;:null,\&quot;status\&quot;:0}</property>
+</record>
+<record>
+  <date>2020-03-30T14:12:59</date>
+  <millis>1585570379104</millis>
+  <sequence>1390</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2071</thread>
+  <message>deviceId = 22X7N19424001756</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">22X7N19424001756</property>
+</record>
+<record>
+  <date>2020-03-30T14:12:59</date>
+  <millis>1585570379104</millis>
+  <sequence>1391</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2071</thread>
+  <message>deviceName = HUAWEI VOG-L29 (Android 10)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">HUAWEI VOG-L29 (Android 10)</property>
+</record>
+<record>
+  <date>2020-03-30T14:12:59</date>
+  <millis>1585570379104</millis>
+  <sequence>1392</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2071</thread>
+  <message>deviceModel = VOG-L29</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">VOG-L29</property>
+</record>
+<record>
+  <date>2020-03-30T14:12:59</date>
+  <millis>1585570379104</millis>
+  <sequence>1393</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2071</thread>
+  <message>deviceManufacturer = HUAWEI</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">HUAWEI</property>
+</record>
+<record>
+  <date>2020-03-30T14:12:59</date>
+  <millis>1585570379104</millis>
+  <sequence>1394</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2071</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T14:12:59</date>
+  <millis>1585570379104</millis>
+  <sequence>1395</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2071</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-30T14:13:15</date>
+  <millis>1585570395747</millis>
+  <sequence>1396</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2091</thread>
+  <message>Appium server started on port 64.947</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T14:13:22</date>
+  <millis>1585570402915</millis>
+  <sequence>1398</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2091</thread>
+  <message>appiumVersion = 1.17.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.17.0</property>
+</record>
+<record>
+  <date>2020-03-30T14:13:22</date>
+  <millis>1585570402915</millis>
+  <sequence>1399</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2091</thread>
+  <message>appiumServerStatus = {\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.17.0\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null,\&amp;quot;status\&amp;quot;:0}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.17.0\&quot;}},\&quot;sessionId\&quot;:null,\&quot;status\&quot;:0}</property>
+</record>
+<record>
+  <date>2020-03-30T14:13:22</date>
+  <millis>1585570402920</millis>
+  <sequence>1400</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2091</thread>
+  <message>deviceId = 22X7N19424001756</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">22X7N19424001756</property>
+</record>
+<record>
+  <date>2020-03-30T14:13:22</date>
+  <millis>1585570402920</millis>
+  <sequence>1401</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2091</thread>
+  <message>deviceName = HUAWEI VOG-L29 (Android 10)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">HUAWEI VOG-L29 (Android 10)</property>
+</record>
+<record>
+  <date>2020-03-30T14:13:22</date>
+  <millis>1585570402920</millis>
+  <sequence>1402</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2091</thread>
+  <message>deviceModel = VOG-L29</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">VOG-L29</property>
+</record>
+<record>
+  <date>2020-03-30T14:13:22</date>
+  <millis>1585570402920</millis>
+  <sequence>1403</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2091</thread>
+  <message>deviceManufacturer = HUAWEI</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">HUAWEI</property>
+</record>
+<record>
+  <date>2020-03-30T14:13:22</date>
+  <millis>1585570402920</millis>
+  <sequence>1404</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2091</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T14:13:22</date>
+  <millis>1585570402920</millis>
+  <sequence>1405</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2091</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-30T14:13:36</date>
+  <millis>1585570416591</millis>
+  <sequence>1406</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2109</thread>
+  <message>Appium server started on port 65.077</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T14:13:43</date>
+  <millis>1585570423688</millis>
+  <sequence>1408</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2109</thread>
+  <message>appiumVersion = 1.17.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.17.0</property>
+</record>
+<record>
+  <date>2020-03-30T14:13:43</date>
+  <millis>1585570423688</millis>
+  <sequence>1409</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2109</thread>
+  <message>appiumServerStatus = {\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.17.0\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null,\&amp;quot;status\&amp;quot;:0}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.17.0\&quot;}},\&quot;sessionId\&quot;:null,\&quot;status\&quot;:0}</property>
+</record>
+<record>
+  <date>2020-03-30T14:13:43</date>
+  <millis>1585570423692</millis>
+  <sequence>1410</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2109</thread>
+  <message>deviceId = 22X7N19424001756</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">22X7N19424001756</property>
+</record>
+<record>
+  <date>2020-03-30T14:13:43</date>
+  <millis>1585570423692</millis>
+  <sequence>1411</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2109</thread>
+  <message>deviceName = HUAWEI VOG-L29 (Android 10)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">HUAWEI VOG-L29 (Android 10)</property>
+</record>
+<record>
+  <date>2020-03-30T14:13:43</date>
+  <millis>1585570423693</millis>
+  <sequence>1412</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2109</thread>
+  <message>deviceModel = VOG-L29</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">VOG-L29</property>
+</record>
+<record>
+  <date>2020-03-30T14:13:43</date>
+  <millis>1585570423693</millis>
+  <sequence>1413</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2109</thread>
+  <message>deviceManufacturer = HUAWEI</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">HUAWEI</property>
+</record>
+<record>
+  <date>2020-03-30T14:13:43</date>
+  <millis>1585570423693</millis>
+  <sequence>1414</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2109</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T14:13:43</date>
+  <millis>1585570423693</millis>
+  <sequence>1415</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2109</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-30T14:14:43</date>
+  <millis>1585570483927</millis>
+  <sequence>1416</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2125</thread>
+  <message>Appium server started on port 65.269</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T14:14:52</date>
+  <millis>1585570492091</millis>
+  <sequence>1418</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2125</thread>
+  <message>appiumVersion = 1.17.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.17.0</property>
+</record>
+<record>
+  <date>2020-03-30T14:14:52</date>
+  <millis>1585570492091</millis>
+  <sequence>1419</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2125</thread>
+  <message>appiumServerStatus = {\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.17.0\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null,\&amp;quot;status\&amp;quot;:0}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.17.0\&quot;}},\&quot;sessionId\&quot;:null,\&quot;status\&quot;:0}</property>
+</record>
+<record>
+  <date>2020-03-30T14:14:52</date>
+  <millis>1585570492097</millis>
+  <sequence>1420</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2125</thread>
+  <message>deviceId = 22X7N19424001756</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">22X7N19424001756</property>
+</record>
+<record>
+  <date>2020-03-30T14:14:52</date>
+  <millis>1585570492098</millis>
+  <sequence>1421</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2125</thread>
+  <message>deviceName = HUAWEI VOG-L29 (Android 10)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">HUAWEI VOG-L29 (Android 10)</property>
+</record>
+<record>
+  <date>2020-03-30T14:14:52</date>
+  <millis>1585570492098</millis>
+  <sequence>1422</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2125</thread>
+  <message>deviceModel = VOG-L29</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">VOG-L29</property>
+</record>
+<record>
+  <date>2020-03-30T14:14:52</date>
+  <millis>1585570492098</millis>
+  <sequence>1423</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2125</thread>
+  <message>deviceManufacturer = HUAWEI</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">HUAWEI</property>
+</record>
+<record>
+  <date>2020-03-30T14:14:52</date>
+  <millis>1585570492098</millis>
+  <sequence>1424</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2125</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T14:14:52</date>
+  <millis>1585570492098</millis>
+  <sequence>1425</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2125</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-30T14:15:21</date>
+  <millis>1585570521040</millis>
+  <sequence>1426</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2143</thread>
+  <message>Appium server started on port 65.413</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T14:15:28</date>
+  <millis>1585570528094</millis>
+  <sequence>1428</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2143</thread>
+  <message>appiumVersion = 1.17.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.17.0</property>
+</record>
+<record>
+  <date>2020-03-30T14:15:28</date>
+  <millis>1585570528094</millis>
+  <sequence>1429</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2143</thread>
+  <message>appiumServerStatus = {\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.17.0\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null,\&amp;quot;status\&amp;quot;:0}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.17.0\&quot;}},\&quot;sessionId\&quot;:null,\&quot;status\&quot;:0}</property>
+</record>
+<record>
+  <date>2020-03-30T14:15:28</date>
+  <millis>1585570528099</millis>
+  <sequence>1430</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2143</thread>
+  <message>deviceId = 22X7N19424001756</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">22X7N19424001756</property>
+</record>
+<record>
+  <date>2020-03-30T14:15:28</date>
+  <millis>1585570528099</millis>
+  <sequence>1431</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2143</thread>
+  <message>deviceName = HUAWEI VOG-L29 (Android 10)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">HUAWEI VOG-L29 (Android 10)</property>
+</record>
+<record>
+  <date>2020-03-30T14:15:28</date>
+  <millis>1585570528099</millis>
+  <sequence>1432</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2143</thread>
+  <message>deviceModel = VOG-L29</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">VOG-L29</property>
+</record>
+<record>
+  <date>2020-03-30T14:15:28</date>
+  <millis>1585570528099</millis>
+  <sequence>1433</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2143</thread>
+  <message>deviceManufacturer = HUAWEI</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">HUAWEI</property>
+</record>
+<record>
+  <date>2020-03-30T14:15:28</date>
+  <millis>1585570528099</millis>
+  <sequence>1434</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2143</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T14:15:28</date>
+  <millis>1585570528099</millis>
+  <sequence>1435</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2143</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-30T14:15:36</date>
+  <millis>1585570536617</millis>
+  <sequence>1436</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2159</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T14:16:37</date>
+  <millis>1585570597040</millis>
+  <sequence>1437</sequence>
+  <level>FAILED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2159</thread>
+  <message>Object android.view.ViewGroup0 not found</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T14:17:01</date>
+  <millis>1585570621199</millis>
+  <sequence>1439</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2171</thread>
+  <message>Appium server started on port 49.221</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T14:17:08</date>
+  <millis>1585570628304</millis>
+  <sequence>1441</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2171</thread>
+  <message>appiumVersion = 1.17.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.17.0</property>
+</record>
+<record>
+  <date>2020-03-30T14:17:08</date>
+  <millis>1585570628304</millis>
+  <sequence>1442</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2171</thread>
+  <message>appiumServerStatus = {\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.17.0\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null,\&amp;quot;status\&amp;quot;:0}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.17.0\&quot;}},\&quot;sessionId\&quot;:null,\&quot;status\&quot;:0}</property>
+</record>
+<record>
+  <date>2020-03-30T14:17:08</date>
+  <millis>1585570628308</millis>
+  <sequence>1443</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2171</thread>
+  <message>deviceId = 22X7N19424001756</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">22X7N19424001756</property>
+</record>
+<record>
+  <date>2020-03-30T14:17:08</date>
+  <millis>1585570628308</millis>
+  <sequence>1444</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2171</thread>
+  <message>deviceName = HUAWEI VOG-L29 (Android 10)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">HUAWEI VOG-L29 (Android 10)</property>
+</record>
+<record>
+  <date>2020-03-30T14:17:08</date>
+  <millis>1585570628308</millis>
+  <sequence>1445</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2171</thread>
+  <message>deviceModel = VOG-L29</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">VOG-L29</property>
+</record>
+<record>
+  <date>2020-03-30T14:17:08</date>
+  <millis>1585570628308</millis>
+  <sequence>1446</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2171</thread>
+  <message>deviceManufacturer = HUAWEI</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">HUAWEI</property>
+</record>
+<record>
+  <date>2020-03-30T14:17:08</date>
+  <millis>1585570628308</millis>
+  <sequence>1447</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2171</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T14:17:08</date>
+  <millis>1585570628308</millis>
+  <sequence>1448</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2171</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-30T14:17:21</date>
+  <millis>1585570641218</millis>
+  <sequence>1449</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2193</thread>
+  <message>Appium server started on port 49.370</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T14:17:28</date>
+  <millis>1585570648309</millis>
+  <sequence>1451</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2193</thread>
+  <message>appiumVersion = 1.17.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.17.0</property>
+</record>
+<record>
+  <date>2020-03-30T14:17:28</date>
+  <millis>1585570648309</millis>
+  <sequence>1452</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2193</thread>
+  <message>appiumServerStatus = {\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.17.0\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null,\&amp;quot;status\&amp;quot;:0}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.17.0\&quot;}},\&quot;sessionId\&quot;:null,\&quot;status\&quot;:0}</property>
+</record>
+<record>
+  <date>2020-03-30T14:17:28</date>
+  <millis>1585570648313</millis>
+  <sequence>1453</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2193</thread>
+  <message>deviceId = 22X7N19424001756</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">22X7N19424001756</property>
+</record>
+<record>
+  <date>2020-03-30T14:17:28</date>
+  <millis>1585570648314</millis>
+  <sequence>1454</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2193</thread>
+  <message>deviceName = HUAWEI VOG-L29 (Android 10)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">HUAWEI VOG-L29 (Android 10)</property>
+</record>
+<record>
+  <date>2020-03-30T14:17:28</date>
+  <millis>1585570648314</millis>
+  <sequence>1455</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2193</thread>
+  <message>deviceModel = VOG-L29</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">VOG-L29</property>
+</record>
+<record>
+  <date>2020-03-30T14:17:28</date>
+  <millis>1585570648314</millis>
+  <sequence>1456</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2193</thread>
+  <message>deviceManufacturer = HUAWEI</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">HUAWEI</property>
+</record>
+<record>
+  <date>2020-03-30T14:17:28</date>
+  <millis>1585570648314</millis>
+  <sequence>1457</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2193</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T14:17:28</date>
+  <millis>1585570648314</millis>
+  <sequence>1458</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2193</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-30T14:18:07</date>
+  <millis>1585570687023</millis>
+  <sequence>1459</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2234</thread>
+  <message>Appium server started on port 49.518</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T14:18:14</date>
+  <millis>1585570694096</millis>
+  <sequence>1461</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2234</thread>
+  <message>appiumVersion = 1.17.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.17.0</property>
+</record>
+<record>
+  <date>2020-03-30T14:18:14</date>
+  <millis>1585570694096</millis>
+  <sequence>1462</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2234</thread>
+  <message>appiumServerStatus = {\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.17.0\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null,\&amp;quot;status\&amp;quot;:0}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.17.0\&quot;}},\&quot;sessionId\&quot;:null,\&quot;status\&quot;:0}</property>
+</record>
+<record>
+  <date>2020-03-30T14:18:14</date>
+  <millis>1585570694100</millis>
+  <sequence>1463</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2234</thread>
+  <message>deviceId = 22X7N19424001756</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">22X7N19424001756</property>
+</record>
+<record>
+  <date>2020-03-30T14:18:14</date>
+  <millis>1585570694100</millis>
+  <sequence>1464</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2234</thread>
+  <message>deviceName = HUAWEI VOG-L29 (Android 10)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">HUAWEI VOG-L29 (Android 10)</property>
+</record>
+<record>
+  <date>2020-03-30T14:18:14</date>
+  <millis>1585570694101</millis>
+  <sequence>1465</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2234</thread>
+  <message>deviceModel = VOG-L29</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">VOG-L29</property>
+</record>
+<record>
+  <date>2020-03-30T14:18:14</date>
+  <millis>1585570694101</millis>
+  <sequence>1466</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2234</thread>
+  <message>deviceManufacturer = HUAWEI</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">HUAWEI</property>
+</record>
+<record>
+  <date>2020-03-30T14:18:14</date>
+  <millis>1585570694101</millis>
+  <sequence>1467</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2234</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T14:18:14</date>
+  <millis>1585570694101</millis>
+  <sequence>1468</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2234</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-30T14:18:34</date>
+  <millis>1585570714840</millis>
+  <sequence>1469</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2248</thread>
+  <message>Appium server started on port 49.642</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T14:18:41</date>
+  <millis>1585570721974</millis>
+  <sequence>1471</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2248</thread>
+  <message>appiumVersion = 1.17.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.17.0</property>
+</record>
+<record>
+  <date>2020-03-30T14:18:41</date>
+  <millis>1585570721974</millis>
+  <sequence>1472</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2248</thread>
+  <message>appiumServerStatus = {\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.17.0\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null,\&amp;quot;status\&amp;quot;:0}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.17.0\&quot;}},\&quot;sessionId\&quot;:null,\&quot;status\&quot;:0}</property>
+</record>
+<record>
+  <date>2020-03-30T14:18:41</date>
+  <millis>1585570721978</millis>
+  <sequence>1473</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2248</thread>
+  <message>deviceId = 22X7N19424001756</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">22X7N19424001756</property>
+</record>
+<record>
+  <date>2020-03-30T14:18:41</date>
+  <millis>1585570721978</millis>
+  <sequence>1474</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2248</thread>
+  <message>deviceName = HUAWEI VOG-L29 (Android 10)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">HUAWEI VOG-L29 (Android 10)</property>
+</record>
+<record>
+  <date>2020-03-30T14:18:41</date>
+  <millis>1585570721978</millis>
+  <sequence>1475</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2248</thread>
+  <message>deviceModel = VOG-L29</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">VOG-L29</property>
+</record>
+<record>
+  <date>2020-03-30T14:18:41</date>
+  <millis>1585570721978</millis>
+  <sequence>1476</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2248</thread>
+  <message>deviceManufacturer = HUAWEI</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">HUAWEI</property>
+</record>
+<record>
+  <date>2020-03-30T14:18:41</date>
+  <millis>1585570721979</millis>
+  <sequence>1477</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2248</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T14:18:41</date>
+  <millis>1585570721979</millis>
+  <sequence>1478</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2248</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-30T14:18:53</date>
+  <millis>1585570733838</millis>
+  <sequence>1479</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2269</thread>
+  <message>Appium server started on port 49.763</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T14:19:00</date>
+  <millis>1585570740911</millis>
+  <sequence>1481</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2269</thread>
+  <message>appiumVersion = 1.17.0</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumVersion">1.17.0</property>
+</record>
+<record>
+  <date>2020-03-30T14:19:00</date>
+  <millis>1585570740911</millis>
+  <sequence>1482</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2269</thread>
+  <message>appiumServerStatus = {\&amp;quot;value\&amp;quot;:{\&amp;quot;build\&amp;quot;:{\&amp;quot;version\&amp;quot;:\&amp;quot;1.17.0\&amp;quot;}},\&amp;quot;sessionId\&amp;quot;:null,\&amp;quot;status\&amp;quot;:0}</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="appiumServerStatus">{\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.17.0\&quot;}},\&quot;sessionId\&quot;:null,\&quot;status\&quot;:0}</property>
+</record>
+<record>
+  <date>2020-03-30T14:19:00</date>
+  <millis>1585570740915</millis>
+  <sequence>1483</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2269</thread>
+  <message>deviceId = 22X7N19424001756</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceId">22X7N19424001756</property>
+</record>
+<record>
+  <date>2020-03-30T14:19:00</date>
+  <millis>1585570740915</millis>
+  <sequence>1484</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2269</thread>
+  <message>deviceName = HUAWEI VOG-L29 (Android 10)</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceName">HUAWEI VOG-L29 (Android 10)</property>
+</record>
+<record>
+  <date>2020-03-30T14:19:00</date>
+  <millis>1585570740916</millis>
+  <sequence>1485</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2269</thread>
+  <message>deviceModel = VOG-L29</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceModel">VOG-L29</property>
+</record>
+<record>
+  <date>2020-03-30T14:19:00</date>
+  <millis>1585570740916</millis>
+  <sequence>1486</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2269</thread>
+  <message>deviceManufacturer = HUAWEI</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceManufacturer">HUAWEI</property>
+</record>
+<record>
+  <date>2020-03-30T14:19:00</date>
+  <millis>1585570740917</millis>
+  <sequence>1487</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2269</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2020-03-30T14:19:00</date>
+  <millis>1585570740919</millis>
+  <sequence>1488</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2269</thread>
+  <message>deviceOSVersion = 10</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="deviceOSVersion">10</property>
+</record>
+<record>
+  <date>2020-03-30T14:19:10</date>
+  <millis>1585570750296</millis>
+  <sequence>1489</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2282</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T14:19:16</date>
+  <millis>1585570756410</millis>
+  <sequence>1490</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2287</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T14:19:22</date>
+  <millis>1585570762105</millis>
+  <sequence>1491</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2292</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T14:19:27</date>
+  <millis>1585570767134</millis>
+  <sequence>1492</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2297</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T14:19:31</date>
+  <millis>1585570771202</millis>
+  <sequence>1493</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2302</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2020-03-30T14:19:36</date>
+  <millis>1585570776499</millis>
+  <sequence>1494</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2307</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+</record>
 </log>

@@ -1,0 +1,157 @@
+[35m[Appium][39m Welcome to Appium v1.17.0
+[35m[Appium][39m Non-default server args:
+[35m[Appium][39m   port: 50233
+[35m[Appium][39m   loglevel: info
+[35m[Appium][39m   tmpDir: /var/folders/0w/jfgz5z853xlfr20kxc6fc26m0000gq/T//Katalon/Appium/Temp1585578030810
+[35m[Appium][39m   chromedriverPort: 50234
+[35m[Appium][39m Deprecated server args:
+[35m[Appium][39m   [31m--chromedriver-port[39m => --default-capabilities '{"chromedriverPort":50234}'
+[35m[Appium][39m Default capabilities, which will be added to each request unless overridden by desired capabilities:
+[35m[Appium][39m   chromedriverPort: 50234
+[35m[Appium][39m Appium REST http interface listener started on 0.0.0.0:50233
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/wd/hub/status[39m
+[35m[HTTP][39m [90m{}[39m
+[35m[HTTP][39m [37m<-- GET /wd/hub/status [39m[32m200[39m [90m49 ms - 68[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/wd/hub/status[39m
+[35m[HTTP][39m [90m{}[39m
+[35m[HTTP][39m [37m<-- GET /wd/hub/status [39m[32m200[39m [90m3 ms - 68[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/wd/hub/session[39m
+[35m[HTTP][39m [90m{"desiredCapabilities":{"app":"/Users/robdevries/Downloads/dearhealthDebug-3.7.1-debug-33.apk","noReset":true,"deviceName":"HUAWEI VOG-L29 (Android 10)","fullReset":false,"platform":"ANDROID","newCommandTimeout":1800,"platformVersion":"10","automationName":"uiautomator2","autoGrantPermissions":true,"platformName":"Android","udid":"22X7N19424001756","systemPort":50267},"capabilities":{"firstMatch":[{"appium:app":"/Users/robdevries/Downloads/dearhealthDebug-3.7.1-debug-33.apk","appium:autoGrantPermissions":true,"appium:automationName":"uiautomator2","appium:deviceName":"HUAWEI VOG-L29 (Android 10)","appium:fullReset":false,"appium:newCommandTimeout":1800,"appium:noReset":true,"platform":"ANDROID","platformName":"android","appium:platformVersion":"10","appium:systemPort":50267,"appium:udid":"22X7N19424001756"}]}}[39m
+[35m[BaseDriver][39m The following capabilities are not standard capabilities and should have an extension prefix:
+[35m[BaseDriver][39m   platform
+[35m[BaseDriver][39m   chromedriverPort
+[35m[Appium][39m Appium v1.17.0 creating new AndroidUiautomator2Driver (v1.44.2) session
+[35m[BaseDriver][39m The following capabilities were provided, but are not recognized by Appium:
+[35m[BaseDriver][39m   platform
+[35m[BaseDriver][39m Session created with session id: b0931426-4477-4ee1-8090-aabececafe55
+[35m[BaseDriver][39m Using local app '/Users/robdevries/Downloads/dearhealthDebug-3.7.1-debug-33.apk'
+[35m[ADB][39m Found 1 'build-tools' folders under '/Users/robdevries/.katalon/tools/android_sdk' (newest first):
+[35m[ADB][39m     /Users/robdevries/.katalon/tools/android_sdk/build-tools/29.0.3
+[35m[ADB][39m Using 'adb' from '/Users/robdevries/.katalon/tools/android_sdk/platform-tools/adb'
+[35m[AndroidDriver][39m Retrieving device list
+[35m[AndroidDriver][39m Using device: 22X7N19424001756
+[35m[ADB][39m Using 'adb' from '/Users/robdevries/.katalon/tools/android_sdk/platform-tools/adb'
+[35m[ADB][39m Getting device platform version
+[35m[UiAutomator2][39m Relaxing hidden api policy
+[35m[ADB][39m Package name: 'com.dearhealth'
+[35m[ADB][39m Main activity name: 'com.gigigo.dearhealth.ui.activity.SplashActivity'
+[35m[ADB][39m Using 'apksigner.jar' from '/Users/robdevries/.katalon/tools/android_sdk/build-tools/29.0.3/lib/apksigner.jar'
+[35m[UiAutomator2][39m Server packages are not going to be (re)installed
+[35m[UiAutomator2][39m Starting UIAutomator2 server 4.5.5
+[35m[UiAutomator2][39m Using UIAutomator2 server from '/usr/local/lib/node_modules/appium/node_modules/appium-uiautomator2-server/apks/appium-uiautomator2-server-v4.5.5.apk' and test from '/usr/local/lib/node_modules/appium/node_modules/appium-uiautomator2-server/apks/appium-uiautomator2-server-debug-androidTest.apk'
+[35m[UiAutomator2][39m Waiting up to 30000ms for UiAutomator2 to be online...
+[35m[WD Proxy][39m Got response with unknown status: {"code":"ECONNRESET"}
+[35m[WD Proxy][39m Determined the downstream protocol as 'W3C'
+[35m[AndroidDriver][39m Screen already unlocked, doing nothing
+[35m[UiAutomator2][39m Starting 'com.dearhealth/com.gigigo.dearhealth.ui.activity.SplashActivity and waiting for 'com.dearhealth/com.gigigo.dearhealth.ui.activity.SplashActivity'
+[35m[Appium][39m New AndroidUiautomator2Driver session created successfully, session b0931426-4477-4ee1-8090-aabececafe55 added to master session list
+[35m[HTTP][39m [37m<-- POST /wd/hub/session [39m[32m200[39m [90m46881 ms - 1286[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55[39m
+[35m[HTTP][39m [90m{}[39m
+[35m[HTTP][39m [37m<-- GET /wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55 [39m[32m200[39m [90m51 ms - 1218[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55[39m
+[35m[HTTP][39m [90m{}[39m
+[35m[HTTP][39m [37m<-- GET /wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55 [39m[32m200[39m [90m33 ms - 1218[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/wd/hub/status[39m
+[35m[HTTP][39m [90m{}[39m
+[35m[HTTP][39m [37m<-- GET /wd/hub/status [39m[32m200[39m [90m3 ms - 68[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55/timeouts[39m
+[35m[HTTP][39m [90m{"implicit":60000}[39m
+[35m[HTTP][39m [37m<-- POST /wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55/timeouts [39m[32m200[39m [90m20 ms - 14[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55/source[39m
+[35m[HTTP][39m [90m{}[39m
+[35m[W3C (b0931426)][39m Driver proxy active, passing request on via HTTP proxy
+[35m[WD Proxy][39m Replacing sessionId d8eee3ab-74a6-49ee-95ee-84ce964a451b with b0931426-4477-4ee1-8090-aabececafe55
+[35m[HTTP][39m [37m<-- GET /wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55/source [39m[32m200[39m [90m500 ms - 17883[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55/screenshot[39m
+[35m[HTTP][39m [90m{}[39m
+[35m[HTTP][39m [37m<-- GET /wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55/screenshot [39m[32m200[39m [90m1153 ms - 1238046[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55/window/rect[39m
+[35m[HTTP][39m [90m{}[39m
+[35m[HTTP][39m [37m<-- GET /wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55/window/rect [39m[32m200[39m [90m119 ms - 50[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55/elements[39m
+[35m[HTTP][39m [90m{"using":"xpath","value":"//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[2]/androidx.recyclerview.widget.RecyclerView[1]/android.view.ViewGroup[2]/android.widget.ImageView[1]"}[39m
+[35m[HTTP][39m [37m<-- POST /wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55/elements [39m[32m200[39m [90m287 ms - 139[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55/element/7d9e3c7d-6eaa-4342-9e2e-21d00aae258f/location[39m
+[35m[HTTP][39m [90m{}[39m
+[35m[W3C (b0931426)][39m Driver proxy active, passing request on via HTTP proxy
+[35m[WD Proxy][39m Replacing sessionId d8eee3ab-74a6-49ee-95ee-84ce964a451b with b0931426-4477-4ee1-8090-aabececafe55
+[35m[HTTP][39m [37m<-- GET /wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55/element/7d9e3c7d-6eaa-4342-9e2e-21d00aae258f/location [39m[32m200[39m [90m52 ms - 78[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55/touch/perform[39m
+[35m[HTTP][39m [90m{"actions":[{"action":"tap","options":{"x":1,"y":1,"element":"7d9e3c7d-6eaa-4342-9e2e-21d00aae258f"}}]}[39m
+[35m[UiAutomator2][39m calling get location: 7d9e3c7d-6eaa-4342-9e2e-21d00aae258f
+[35m[HTTP][39m [37m<-- POST /wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55/touch/perform [39m[32m200[39m [90m135 ms - 14[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55/source[39m
+[35m[HTTP][39m [90m{}[39m
+[35m[W3C (b0931426)][39m Driver proxy active, passing request on via HTTP proxy
+[35m[WD Proxy][39m Replacing sessionId d8eee3ab-74a6-49ee-95ee-84ce964a451b with b0931426-4477-4ee1-8090-aabececafe55
+[35m[HTTP][39m [37m<-- GET /wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55/source [39m[32m200[39m [90m133 ms - 12065[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55/screenshot[39m
+[35m[HTTP][39m [90m{}[39m
+[35m[HTTP][39m [37m<-- GET /wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55/screenshot [39m[32m200[39m [90m1700 ms - 2084132[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55/window/rect[39m
+[35m[HTTP][39m [90m{}[39m
+[35m[HTTP][39m [37m<-- GET /wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55/window/rect [39m[32m200[39m [90m55 ms - 50[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55/elements[39m
+[35m[HTTP][39m [90m{"using":"xpath","value":"//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.ImageButton[1]"}[39m
+[35m[HTTP][39m [37m<-- POST /wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55/elements [39m[32m200[39m [90m164 ms - 139[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55/element/4d0032f7-e47b-4ff2-a9f7-06e7af68669c/location[39m
+[35m[HTTP][39m [90m{}[39m
+[35m[W3C (b0931426)][39m Driver proxy active, passing request on via HTTP proxy
+[35m[WD Proxy][39m Replacing sessionId d8eee3ab-74a6-49ee-95ee-84ce964a451b with b0931426-4477-4ee1-8090-aabececafe55
+[35m[HTTP][39m [37m<-- GET /wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55/element/4d0032f7-e47b-4ff2-a9f7-06e7af68669c/location [39m[32m200[39m [90m49 ms - 75[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55/touch/perform[39m
+[35m[HTTP][39m [90m{"actions":[{"action":"tap","options":{"x":1,"y":1,"element":"4d0032f7-e47b-4ff2-a9f7-06e7af68669c"}}]}[39m
+[35m[UiAutomator2][39m calling get location: 4d0032f7-e47b-4ff2-a9f7-06e7af68669c
+[35m[HTTP][39m [37m<-- POST /wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55/touch/perform [39m[32m200[39m [90m100 ms - 14[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55/source[39m
+[35m[HTTP][39m [90m{}[39m
+[35m[W3C (b0931426)][39m Driver proxy active, passing request on via HTTP proxy
+[35m[WD Proxy][39m Replacing sessionId d8eee3ab-74a6-49ee-95ee-84ce964a451b with b0931426-4477-4ee1-8090-aabececafe55
+[35m[HTTP][39m [37m<-- GET /wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55/source [39m[32m200[39m [90m168 ms - 17883[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55/screenshot[39m
+[35m[HTTP][39m [90m{}[39m
+[35m[HTTP][39m [37m<-- GET /wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55/screenshot [39m[32m200[39m [90m1102 ms - 1238406[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mDELETE[39m [37m/wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55[39m
+[35m[HTTP][39m [90m{}[39m
+[35m[Appium][39m Removing session b0931426-4477-4ee1-8090-aabececafe55 from our master session list
+[35m[WD Proxy][39m Got response with unknown status: {"errno":"ECONNREFUSED","code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":50267}
+[35m[UiAutomator2][39m Did not get confirmation UiAutomator2 deleteSession worked; Error was: UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: connect ECONNREFUSED 127.0.0.1:50267
+[35m[ADB][39m Error sending command, reconnecting device and retrying: shell,am,force-stop,com.dearhealth
+[35m[UiAutomator2][39m Unable to force stop app: Could not find a connected Android device in 20414ms.
+[35m[ADB][39m Error sending command, reconnecting device and retrying: forward,--remove,tcp:50267
+[35m[UiAutomator2][39m Unable to remove port forward: Could not find a connected Android device in 20579ms.
+[35m[UiAutomator2][39m Restoring hidden api policy to the device default configuration
+[35m[ADB][39m Error sending command, reconnecting device and retrying: shell,settings,delete,global,hidden_api_policy_pre_p_apps
+[35m[HTTP][39m [37m<-- DELETE /wd/hub/session/b0931426-4477-4ee1-8090-aabececafe55 [39m[31m500[39m [90m66098 ms - 603[39m
+[35m[HTTP][39m [90m[39m
+[35m[BaseDriver][39m Shutting down because we waited 1800 seconds for a command
+[35m[Appium][39m Closing session, cause was 'New Command Timeout of 1800 seconds expired. Try customizing the timeout using the 'newCommandTimeout' desired capability'
+[35m[Appium][39m Removing session 'b0931426-4477-4ee1-8090-aabececafe55' from our master session list
+[35m[ADB][39m Error sending command, reconnecting device and retrying: shell,am,force-stop,com.dearhealth
+[35m[UiAutomator2][39m Unable to force stop app: Could not find a connected Android device in 20746ms.
+[35m[ADB][39m Error sending command, reconnecting device and retrying: forward,--remove,tcp:50267
+[35m[UiAutomator2][39m Unable to remove port forward: Could not find a connected Android device in 20226ms.
+[35m[UiAutomator2][39m Restoring hidden api policy to the device default configuration
+[35m[ADB][39m Error sending command, reconnecting device and retrying: shell,settings,delete,global,hidden_api_policy_pre_p_apps
